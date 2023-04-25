@@ -1,0 +1,85 @@
+allintext:wp-includes/rest-api
+inurl:.com index of movies
+intitle:index.of.etc
+intitle:"index of" "*.php"
+intitle:"index of" "*.phtml"
+intitle:"index of" "*.pl"
+inurl:*gov intitle:"index of" "docker-compose"
+intitle:"Index of" site:.in
+intitle:"index of" "stylesheet.css"
+intitle:"index of" "pres.xml"
+intitle:"index of" "master03.xml"
+intext:"powered by BlueCMS v1.6"
+intitle:"index of" "/cgi-bin" "admin"
+intitle: Index of /assets/admin/system
+Google Dork: intitle:"index of" "/sql" "admin"
+inurl:/supportboard
+"index of /" intext:wp-config "zip"
+intitle:"index of" "schema.sql"
+Dork: "index of" "Production.json"
+index.of.?.frm
+Dork: "Index of" "upload_image.php"
+intitle:"index of" "nrpe.cfg"
+index of admin/fckeditor/editor/filemanager/
+inurl:demo.browse.php intitle:getid3
+-site:simplemachines.org "These are the paths and URLs to your SMF installation"
+allinurl:forcedownload.php?file=
+ionCube Loader Wizard information disclosure
+vBulletin Install Page Detection
+inurl:"simplenews/admin"
+inurl:updown.php | intext:"Powered by PHP Uploader Downloader"
+inurl:guestbook/guestbooklist.asp "Post Date" From
+intitle:"CJ Link Out V1"
+"powered by mailgust"
+"powered by my little forum"
+intitle:"Control panel" "Control Panel Login" ArticleLive inurl:admin -demo
+inurl:cartwiz/store/index.asp
+"maxwebportal" inurl:"default" "snitz forums" +"homepage" -intitle:maxwebportal
+"e107.org 2002/2003" inurl:forum_post.php?nt
+"Mail-it Now!" intitle:"Contact form" | inurl:contact.php
+"Warning:" "Cannot execute a blank command in"
+"Powered by Xcomic"
+"Powered by FunkBoard"
+"Powered by FlexPHPNews" inurl:news | inurl:press
+"Powered By: Simplicity oF Upload" inurl:download.php | inurl:upload.php
+inurl:nquser.php filetype:php
+PHPFreeNews inurl:Admin.php
+"Powered by SilverNews"
+"Powered by Gravity Board"
+filetype:mdb "standard jet" (password | username | user | pass)
+intitle:"PHPstat" intext:"Browser" intext:"PHPstat setup"
+intitle:"SSHVnc Applet"OR intitle:"SSHTerm Applet"
+inurl:cgi-bin inurl:bigate.cgi
+filetype:pl -intext:"/usr/bin/perl" inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config)
+filetype:mdb inurl:"news/news"
+inurl:php.exe filetype:exe -example.com
+"Powered by Land Down Under 601"
+ext:asp "powered by DUForum" inurl:(messages|details|login|default|register) -site:duware.com
+ext:asp inurl:DUgallery intitle:"3.0" -site:dugall
+filetype:cgi inurl:cachemgr.cgi
+"powered by YellDL"
+inurl:click.php intext:PHPClickLog
+"File Upload Manager v1.3" "rename to"
+intitle:"phpremoteview" filetype:php "Name, Size,
+intitle:"ASP FileMan" Resend -site:iisworks.com
+ezBOO "Administrator Panel" -cvs
+intitle:mywebftp "Please enter your password"
+intitle:"Directory Listing" "tree view"
+inurl:changepassword.cgi -cvs
+inurl:" WWWADMIN.PL" intitle:"wwwadmin"
+inurl:cgi.asx?StoreID
+filetype:lit lit (books|ebooks)
+"create the Super User" "now by clicking here"
+intitle:gallery inurl:setup "Gallery configuration"
+inurl:"nph-proxy.cgi" "Start browsing through this CGI-based proxy"
+inurl:"plog/register.php"
+link:http://www.toastforums.com/
+inurl:robpoll.cgi filetype:cgi
+intitle:"PHP Explorer" ext:php (inurl:phpexplorer.php | inurl:list.php | inurl:browse.php)
+ext:cgi inurl:ubb6_test.cgi
+filetype:wsdl wsdl
+filetype:inc inc intext:setcookie
+filetype:cnf my.cnf -cvs -example
+filetype:php inurl:"viewfile" -"index.php" -"idfil
+intitle:"Index of /" modified php.exe
+TOO MANY

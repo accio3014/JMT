@@ -1,0 +1,2220 @@
+# Google Dork: intext:"Powered by Virtual Airlines Manager [v2.6.2]"
+inurl:"index.php?page=news.php"
+"PHP Projectworlds 1.0"
+inurl:quicklinks.aspx
+inurl:/wp-content/plugins/wpdiscuz/
+inurl:wp-content/plugins/Ultimate-member
+inurl:"/wp-content/plugins/123ContactForm
+inurl:wp-content/plugins/1-flash-gallery
+inurl:"wp-content/plugins/wp-super-edit/superedit/" | inurl:"wp-content/plugins/wp-super-edit/superedit/tinymce_plugins/mse/fckeditor/editor/filemanager/upload/"
+"citsmart.local"
+inurl:"telerik.web.ui.webresource.axd?type=rau"
+inurl:"/lib/editor/atto/plugins/managefiles/" | inurl:"calendar/view.php?view=month"
+inurl:/ics?tool=search
+inurl:/calendar/calendar_form.php
+"Powered By Best Support System"
+inurl:"/wp-content/plugins/super-forms/"
+inurl:uno.php
+inurl:"/console/login/LoginForm.jsp"
+"machform" inurl:"view.php"
+intext:"Incom CMS 2.0"
+inurl:/wp-content/themes/altair/
+inurl:/cgi-bin/manlist?section
+inurl:/pro_users/login
+"Powered by vBulletin(R) Version 5.6.3"
+intitle:"Please Login" "Use FTM Push"
+inurl:opac_css
+intitle:"Powered by Pro Chat Rooms"
+inurl:"woocommerce-exporter"
+Server: Mida eFramework
+intitle:"Sphider Admin Login"
+inurl:/wp-content/plugins/wp-file-manager/readme.txt
+intext:"Published with Textpattern CMS"
+intext:"Powered by Piwigo"
+intext:"Powered by Typesetter"
+inurl:"images/lists?cid=13"
+inurl:device ext:rsp
+inurl:"/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php" - Wordpress File Manager
+inurl: login.rsp
+inurl:''com_gmapfp''
+inurl:wp-content/plugins/wpdiscuz
+inurl:wp-content/plugins/easy-media-gallery-pro
+inurl:"/vam/index_vam_op.php"
+inurl:wp-content/plugins/updraftplus
+inurl:wp-content/plugins/my-calendar
+Index of : wp-content/plugins/wpmudev-updates/
+inurl:wp-content/plugins/redirection
+intitle:ePMP 1000 intext:Log In -site:*.com -site:com.*
+inurl:wp-content/plugins/sfwd-lms
+inurl:wp-content/plugins/arforms
+inurl:wp-content/plugins/iwp-client
+inurl:wp-content/plugins/safe-svg
+inurl:wp-content/plugins/email-subscribers
+inurl:wp-content/plugins/wpjobboard
+inurl:wp-content/plugins/async-javascript
+inurl:wp-content/plugins/lifterlms
+inurl:wp-content/plugins/all-in-one-wp-migration
+inurl:wp-content/plugins/idx-broker-platinum
+inurl:wp-content/plugins/wd-google-maps
+inurl:wp-content/plugins/sendpress
+inurl:/wp-content/plugins/angwp
+allintext: wp-content/themes/injob
+inurl:wp-content/plugins/angwp
+inurl:wp-content/plugins/knight-lab-timelinejs
+inurl:wp-content/plugins/gravityforms
+inurl:wp-content/plugins/wise-chat
+inurl:wp-content/themes/corona
+inurl:/wp-content/themes/realestate-7
+inurl:wp-content/plugins/knight-lab-timelinejs
+allintext:wp-content/plugins/angwp
+inurl:wp-content/plugins/angwp
+inurl:wp-content/plugins/kingcomposer
+inurl:wp-content/plugins/wp-live-chat-support
+inurl:wp-content/plugins/newsletter
+inurl:wp-content/plugins/form-maker
+inurl:wp-content/themes/sparky
+allintext:wp-content/plugins/acf-to-rest-api
+inurl:wp-content/plugins/payment-form-for-paypal-pro
+inurl:wp-content/plugins/wpforms-lite
+inurl:wp-content/themes/careerup
+inurl:wp-content/plugins/wp-jobsearch
+inurl:wp-content/themes/careerfy
+inurl:wp-content/plugins/security-malware-firewall
+inurl:wp-content/themes/nexos
+inurl:wp-content/plugins/testimonials-widget
+inurl:wp-content/plugins/coming-soon
+intext:piwik "Sign in"
+inurl:wp-content/plugins/gift
+inurl:wp-content/themes/traveler
+inurl:wp-content/plugins/form-maker
+intitle:"IceWarp WebClient"
+intext:Powered by 2Moons 2009-2013
+intext:"Centreon 2005-2019"
+inurl:wp-content/themes/citybook
+inurl:wp-content/themes/traveler
+inurl:wp-content/plugins/wpDiscuz
+inurl:wp-content/plugins/ar-contactus
+inurl:wp-content/plugins/YITH-WooCommerce-Ajax-Product-Filter
+inurl:/webmail intext:Tecnologia fornecida por IceWarp Server
+inurl:wp-content/plugins/wp-pro-quiz
+intext:Basato su IceWarp Server
+inurl:wp-content/plugins/testimonial-rotator
+intext:Basato su Comunicazioni Integrate IceWarp
+intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net
+intext:"TopManage (R) 2002 - 2020"
+inurl:wp-content/plugins/kingcomposer
+inurl:wp-content/themes/newspaper
+intext:powered by JoomSport - sport WordPress plugin
+inurl:wp-content/plugins/elementor
+"index of" "plugins/wp-rocket"
+"powered by Typo3"
+inurl:wp-content/plugins/brizy
+index of /wp-content/uploads/backupbuddy
+inurl:"wp-contentpluginsphoto-gallery"
+inurl:wp-content/plugins/sportspress
+inurl:wp-content/plugins/final-tiles-grid-gallery-lite
+inurl:wp-content/plugins/ajax-load-more/lang/
+inurl:/wp-content/plugins/wp-ecommerce-shop-styling/
+inurl:wp-content/plugins/simple-file-list
+inurl:wp-content/plugins/yop-poll
+inurl:wp-content/plugins/mappress-google-maps-for-wordpress
+inurl:wp-content/plugins/woocommerce
+inurl:wp-content/plugins/mappress-google-maps-for-wordpress
+inurl:wp-content/plugins/yop-poll
+inurl:/wp-content/plugins/wp-ecommerce-shop-styling/
+inurl:wp-content/plugins/gtranslate
+inurl:wp-content/plugins/bbPress
+inurl:wp-content/plugins/iframe
+inurl:wp-content/plugins/grand-media
+inurl:wp-content/plugins/woo-order-export-lite
+inurl:wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7
+inurl:"wp-content/plugins/siteorigin-panels"
+inurl:"wp-content/plugins/form-maker"
+inurl:wp-content/plugins/thirstyaffiliates
+intitle:"Index of" intitle:"UserPro" -uploads
+inurl:wp-content/plugins/official-mailerlite-sign-up-forms
+inurl:"index.php?option=com_ccnewsletter" inurl:sbid
+inurl:wp-content/plugins/paid-memberships-pro
+inurl:wp-content/plugins/ajax-load-more
+inurl:wp-content/plugins/visualcomposer
+"LMS v3.0 - Xerone IT"
+inurl:"index.php?option=com_jssupportticket"
+intext:"Created by John Caruso" intext:"Created with Simple PHP Photo Gallery"
+inurl:"index.php?option=com_fabrik"
+inurl:human.aspx intext:moveit
+inurl:"sites/all/modules/ckeditor" -drupalcode.org
+inurl:wp-content/plugins/wp-product-review
+inurl:wp-content/plugins/easy-login-woocommerce
+inurl:wp-content/plugins/photo-gallery
+inurl:wp-content/plugins/team-members
+inurl:wp-content/plugins/google-site-kit
+inurl:index.php?option=com_newsfeeds
+inurl:"index.php?option=com_hdwplayer"
+inurl:wp-content/plugins/easy-testimonials
+inurl:wp-content/plugins/page-builder
+inurl:wp-content/plugins/chopslider
+inurl:wp-content/plugins/elementor-pro
+inurl:wp-content/plugins/ultimate-elementor
+inurl:"wp-content/plugins/ninja-forms"
+inurl:/wp-content/themes/traveler/
+inurl:"wp-content/plugins/learnpress"
+inurl:/wp-content/themes/fruitful/
+index of /wp-content/themes/onetone/
+inurl:/wp-content/themes/listingpro/
+index of /wp-content/themes/avada
+intext:"Please Login" inurl:"/remote/login"
+inurl:/webmail/ intext:Powered by IceWarp Server
+inurl:zdm logon
+intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net
+inurl:"/course/jumpto.php?jump="
+inurl:/wp-content/themes/CherryFramework
+intitle:"elFinder 2.1.x"
+inurl:www/delivery filetype:php
+intitle:"My Book World Edition - MyBookWorld"
+inurl:"index.php?option=com_jsjobs"
+inurl:"wp-contentpluginsall-in-one-seo-pack"
+"Powered by PHPBack"
+intext:"Powered by YouPHPTube"
+inurl:php-bin/webclient.php
+"Powered by SePortal 2.5"
+filetype:php inurl:"/general/login.php?PHPSESSID="
+inurl:/?op=registration
+"Powered by Lanius CMS"
+"Powered by sNews CMS"
+"Powered By Liferay"
+"Powered by Podcast Generator"
+"Powered by Zimplit CMS"
+inurl:ReportViewer.aspx
+inurl:/cmsinstall/install ext:aspx
+intext:"Please enable JavaScript in your browser before using Citrix Receiver." AND intext:www.citrix.com
+intitle:"kentico database setup"
+inurl:"index.cfm?action=" intext:"Exception in onError"
+intext:Powered By vBulletin 5.5.4 inurl:forum.
+inurl:zoom.us/j and intext:scheduled for
+inurl:/secure/ContactAdministrators!default.jspa intext:"Request Details" -intext:"Your Jira administrator has not yet configured this contact form"
+intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:pdf
+site:connect.garmin.com inurl:"/modern/profile/"
+site:connect.garmin.com inurl:"/modern/activity/"
+inurl:dnn.js
+intext:"Powered by 74cms v5.0.1"
+site:www.openbugbounty.org + intext:"Open Redirect" + intext:"Unpatched"
+inurl:wls-wsat intext:"weblogic.wsee.wstx.wsat"
+inurl:"/uddiexplorer/searchpublicregistries.jsp"
+inurl="/uddiexplorer/SetupUDDIExplorer.jsp"
+"Powered by 2Moons"
+intitle:"WAGO Ethernet web-based-management"
+intitle:"Nport web console"
+inurl:"mgl-instagram-gallery/single-gallery.php?media"
+inurl:"/testssi.ssi"
+filetype:php "Git Deployment Script v0.1"
+inurl:"/wp-admin/setup-config.php" intitle:"Setup Configuration File"
+filetype:ini "wordfence"
+intitle:"Index of /" "mod_ssl 2.2.22 OpenSSL/1.0.1"
+inurl:"pubdlcnt.php?file=" ext:php
+inurl:"exit.php?url=" -entry_id
+allinurl:"/wp-content/plugins/wp-noexternallinks"
+intitle:index of AND (intext:mirai.x86 OR intext:mirai.mips OR intext:mirai.mpsl OR intext:mirai.arm OR intext:mirai.arm7 OR intext:mirai.ppc OR intext:mirai.spc OR intext:mirai.m68k OR intext:mirai.sh4)
+"Access Denied" "Powered by Incapsula" ext:php
+inurl:"/load.cgi" ext:cgi
+inurl:"exit.php?site="
+inurl:"/admin/index.php?msg=" inurl:"%20"
+inurl:".php?cat=" inurl:"'"
+"CF-Host-Origin-IP" "CF-Int-Brand-ID" "CF-RAY" "CF-Visitor" "github" -site:github.com -site:cloudfare.com
+inurl:sendmessage.php?type=skype
+inurl:/index.php?option=com_artforms
+inurl:sgms/auth
+"index of" bigdump.php
+intext:"Hello visitor from" ext:asp
+inurl:"/wp-content/uploads/levoslideshow/"
+inurl:"/wp-content/plugins/wp-mobile-detector/" ext:php
+ext:php inurl:"api.php?action="
+inurl:"/webmail/" intitle:"Mail - AfterLogic WebMail" -site:afterlogic.org -site:afterlogic.com
+intext:"Forum software by XenForo™"
+inurl:".asp?strParents="
+inurl:/node/add/event
+intext:"Powered By OpenCart" -site:opencart.com -inurl:"Powered By OpenCart" -intitle:"OpenCart" -intitle:"powered by"
+" Proudly Served by LiteSpeed Web Server" intitle:index.of./
+intitle:"Dashboard [Jenkins]" Credentials
+"powered by joomla 3.2" OR "powered by joomla 3.3" OR "powered by joomla 3.4"
+inurl:cgi-bin/webproc?getpage=
+"ganglia mobile.php"
+allinurl:wp-content/plugins/wptf-image-gallery/
+inurl:/wp-content/plugins/inboundio-marketing/
+inurl:/plugins/aviary-image-editor-add-on-for-gravity-forms/
+inurl:EndUserPortal.jsp
+inurl:"index.php" intext:"ApPHP Hotel Site" -site:"apphp.com"
+inurl:courier/web/ inurl:wmLogin.html filetype:html
+inurl:/wp-admin/post.php?post=
+inurl:/wp-admin/admin-ajax.php?action=revslider_ajax_action
+inurl:fckeditor -intext:"ConfigIsEnabled = False" intext:ConfigIsEnabled
+intitle:"pChart 2.x - examples" intext:"2.1.3"
+inurl:"tiki-index.php" filetype:php "This is TikiWiki 1.9"
+inurl:wp-content/plugins/age-verification/age-verification.php
+inurl:"/showPlayer.php?id=" intext:"powered by ellistonSPORT"
+inurl:"mod.php?mod=blog" intext:"powered by DIY-CMS"
+"Powered by kryCMS"
+"Powered by SLAED CMS"
+"error_log" inurl:/wp-content
+intitle:"vtiger CRM 5 - Commercial Open Source CRM"
+inurl:"clsUploadtest.asp"
+inurl:"fbconnect_action=myhome"
+intext:"Powered by FXRecruiter"
+index.php?option=com_ignitegallery
+"site by Designscope"
+intext:"Powered by Inventory Mojo Software."
+intext:"Powered by VoiceCMS"
+intext:"Site by Triware Technologies Inc"
+intext:"Powered by OnePlug CMS"
+"POWERED BY LOG1 CMS"
+ADAN (view.php ) Sql Injection Vulnerability
+inurl:"sitegenius/topic.php"
+intext:"Powered by EZPub"
+intext:"Web Design by Webz" filetype:asp
+"Powered by SOFTMAN"
+"POWERED BY ZIPBOX MEDIA" inurl:"album.php"
+"made visual by sightFACTORY"
+"powered by zipbox media"
+site:ebay.com inurl:callback
+"Powered By Dew-NewPHPLinks v.2.1b"
+allintext: /qcodo/_devtools/codegen.php
+http://www.google.com/#sclient=psy&hl=en&safe=off&site=&source=hp&q=:inurl%3Amj_wwwusr&aq=f&aqi=&aql=&oq=&pbx=1&fp=2dcb6979649afcb0
+Photo Gallery powered by TinyWebGallery 1.8.3
+inurl:"ab_fct.php?fct="
+"Powered by: PHP Link Directory"
+"inurl:cultbooking.php"
+inurl:"/plugins/ImageManager/manager.php"
+intext:"Powered by DZOIC Handshakes Professional"
+inurl:"/modules.php?name=" "Maximus CMS"
+"TinyBB 2011 all rights reserved"
+inurl:"jscripts/tiny_mce/plugins/tinybrowser/" OR inurl:"jscripts/tiny_mce/plugins/tinybrowser/" "index of"
+"Powered by phpMySport"
+"POWERED BY ALITALK"
+inurl:"com_eventcal"
+inurl:"/gadmin/index.php"
+"Powered by YourTube v1.0"
+"Website Design by Rocktime"
+"Powered by KaiBB 1.0.1"
+"/index.php?id=cmp-noticias"
+"Powered by UNO.com.my"
+"Powered by CubeCart 3.0.4"
+allinurl:index.php?db=information_schema
+"Powered by: IRIran.net"
+inurl:com_jeauto
+inurl:"produtos.asp?produto="
+"powered by simpleview CMS"
+"Powered By PageAdmin CMS Free Version"
+intext: Copyright+MantisBT Group
+"POWERED BY: WEBINSPIRE"
+inurl:panorama-viewer.php?id=
+inurl:showcat.asp?id=
+inurl:com_amresurrected
+"Powered by SOOP Portal Raven 1.0b"
+PhpMyAdmin Client Side 0Day Code Injection and Redirect Link Falsification
+inurl:page.php?intPageID=
+php Kolay Forum (php KF) © 2007 - 2010 phpKF Ekibi
+inurl:index.php?option=com_lqm "showResults"
+"SOOP Portal 2.0"
+"Powered By Dejcom Market CMS"
+inurl:"index.php?option=com_annuaire"
+inurl:index.php?option=com_doqment&cid=
+inurl:"index.php?option=com_jeajaxeventcalendar"
+inurl:"index.php?option=com_catalogue"
+inurl:"index.php?option=com_storedirectory"
+inurl:"index.php?option=com_competitions"
+"Site produced by GeneralProducts.co.uk"
+"Powered by SiteEngine"
+inurl:"?delete" +intext:"PHP version" +intext:"Safe_mode"
+inurl:"?act=phpinfo"
+inurl:"jscripts/tiny_mce/plugins/tinybrowser/"
+"Forum Active Bulletin Board version 1.1 béta 2"
+"Powered by: Yes Solutions"
+inurl:.asp? Powered by Comersus ASP Shopping Cart
+"index.php?option=com_sef" / "com_sef"
+[ Copyright 2005-2006 phpDirectorySourceâ„¢, all rights reserved ]
+intext:"Free Ecommerce Shopping Cart Software by ViArt" +"Your shopping cart is empty!" + "Products Search" +"Advanced Search" + "All Categories"
+("powered by nocc" intitle:"NOCC Webmail") -site:sourceforge.net -Zoekinalles.nl -analysis
+Powered by PBBoard© 2009 Version 2.0.5
+inurl:/components/je-media-player.html?
+inurl:module=My_eGallery pid
+"Powered By phpCOIN v1.2.1" / "mod.php?mod=faq"
+Powered by PHP Advanced Transfer Manager v1.10 - @2002 Bugada Andrea
+"PHP Link Portal v1.95.1 Â© Big Resources, Inc."
+"powered by WonderEdit Pro"
+"Powered by Drumbeat" inurl:index02.php
+"Welcome to Exponent CMS" | "my new exponent site" inurl:articlemodule
+intext:"Web design by goffgrafix.com"
+intext:"Powered By WorldPay" inurl:productdetail.php
+Powered by iScripts EasyBiller
+"powered by php photo album" -demo2 -pitanje"
+"propulsé par DotClear" "fil atom" "fil rss" +commentaires
+Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top
+"Designed & Developed by N.E.T E-Commerce Group. All Rights Reserved."
+"Powered by SocketMail Lite version 2.2.8. Copyright Â© 2002-2006"
+"Powered by osCMax v2.0" , "Copyright @" "RahnemaCo.com"
+Power by donghungx. Copyright © 2008 AttMp3.com. All rights reserved.
+Powered by Discuz! 1.0 © 2002, Crossday Studio of 11cn.org
+inurl:"com_dbquery" OR "index.php?option=com_dbquery"
+"Factux le facturier libre V 1.1.5"
+allinurl: "pollBooth.php?op=results"pollID
+inurl:inc_catalogmanager.asp
+Powered by WHMCompleteSolution - OR inurl:WHMCS OR announcements.php
+"Powered by Burning Board Lite 1.0.2" or "Powered by Burning Board 2.3.6"
+inurl:"tr.php?id=" Short Url & Url Tracker
+inurl:inc_photogallerymanager.asp
+allinurl:com_pccookbook
+"All Rights Reserved. Powered by DieselScripts.com"
+"2006 by www.mani-stats-reader.de.vu"
+inurl:index.php?option=com_portfolio
+"Powered by Smoothflash"
+inurl:"index.php?pageid=" Property Listings
+display_blog.php
+"Powered by myBusinessAdmin and Red Cow Technologies, Inc."
+''showad.php?listingid=''
+Powered By AJ Auction Web
+"Powered by My PHP Indexer 1.0"
+inurl:"section.php?name=singers"
+allinurl: "com_rapidrecipe"user_id
+inurl:"inurl:file.php?recordID="
+"Powered by PG Roomate Finder Solution - roommate estate web site design"
+"Powered by PG Real Estate Solution - real estate web site design"
+Powered By AlstraSoft Video Share Enterprise
+Powered by PHP upload - unijimpe.
+"Powered by FubarForum v1.6"
+''name Kose_Yazilari op viewarticle artid''
+inurl:cfaq/index.php?catid=
+"Powered by cityadmin and Red Cow Technologies, Inc."
+allinurl: "index.php?option=com_doc"
+Power by PHP Classifieds
+allinurl: com_paxxgallery "userid"
+"powered by clipshare"
+mod.php?mod=publisher&op=printarticle&artid=
+powered by vBulletin 3.8.4
+"Powered by RealAdmin and Red Cow Technologies, Inc."
+allinurl: "wordspew-rss.php"
+allinurl: com_clasifier
+Powered by hwdVideoShare
+allinurl: modules-php-name-Siir
+allinurl: "modules/wfdownloads/viewcat.php?cid"
+Powered by Active PHP Bookmarks v1.1.02
+allinurl: "modules/eEmpregos/index.php"
+powered by Site Sift
+"powered by ILIAS"
+"RS MAXSOFT"
+allinurl:"com_simpleshop"
+"propulsé par DotClear" "fil atom" "fil rss" +commentaires
+"Copyright (c) 2004-2006 by Simple PHP Guestbook"
+"powered by zomplog"
+Powered by osCSS
+"Powered by cifshanghai.com"
+allinurl:"detResolucion.php?tipodoc_id="
+"qjForum"
+Powered by React - www.react.nl
+inurl:"com_jashowcase "
+"WebCalendar v1.0.4"
+intitle:"Login to Calendar"
+"Welcome to Exponent CMS" | "my new exponent site" inurl:articlemodule
+allinurl:"members.asp?action"
+"Powered by Drumbeat" inurl:index02.php
+index.php?option=com_pcchess
+"Designed & Developed by N.E.T E-Commerce Group. All Rights Reserved."
+"Powered by SocketMail Lite version 2.2.8. Copyright Â© 2002-2006"
+Powered by WHMCompleteSolution - OR inurl:WHMCS OR announcements.php
+inurl:inc_catalogmanager.asp
+inurl:"/cgi-bin/ourspace/"
+"Powered by xeCMS"
+inurl:com_forum
+"ActualAnalyzer Lite (free) 2.78"+"Copyright Â© 2006 ActualScripts"
+"Powered by yappa-ng 2.3.1" AND "Powered by yappa-ng 2.3.1"
+inurl:"browse.php?folder=" Powered by GeneShop 5
+inurl:/modules/Partenaires/clic.php?id=
+"powered by DBHcms"
+intext:"sitio web diseñado por www.toronja.com.pe"
+Maian Gallery v2.0 Copyright Â© 2006-2008 Maian Script World. All Rights Reserved.
+allintext:" If you would like to contact us, our email address is" traffic
+powered by apt-webservice ;apt-webshop-system v3.0
+Maian Music v1.0. Copyright Â© 2007-2008 Maian Script World. All Rights Reserved.
+inurl:"com_biographies"
+"Help desk software by United Web Coders rev. 3.0.640"
+"Powered by WSN Guest"
+"Software PBLang 4.66z" AND "Software PBLang 4.60" OR "Software PBLang"
+intext:"Web design by goffgrafix.com"
+inurl:"com_dailymeals"
+inurl:index.php?option=com_mediaslide
+inurl:modules/flashgames/
+allinurl: aid "com_xfaq"
+"PHP Link Portal v1.95.1 Â© Big Resources, Inc."
+"powered by WonderEdit Pro"
+intext:"Free Ecommerce Shopping Cart Software by ViArt" +"Your shopping cart is empty!" + "Products Search" +"Advanced Search" + "All Categories"
+"Powered by osCMax v2.0" , "Copyright @" "RahnemaCo.com"
+Power by donghungx. Copyright © 2008 AttMp3.com. All rights reserved.
+Powered by Discuz! 1.0 © 2002, Crossday Studio of 11cn.org
+intext:"Powered By WorldPay" inurl:productdetail.php
+"Powered By phpCOIN v1.2.1" / "mod.php?mod=faq"
+Powered by iScripts EasyBiller
+Powered by PHP Advanced Transfer Manager v1.10 - @2002 Bugada Andrea
+Powered by cP Creator v2.7.1
+"index.php?option=com_chronoconnectivity" / "com_chronoconnectivity
+inurl:"picture.php?cat=" "Powered by PhpWebGallery 1.3.4"
+"pages.php?page_ID=" "K9 Kreativity"
+"index.php?option=com_chronocontact" / "com_chronocontact"
+"PHP Gallery © 2010 PHP Weby hostgator coupon"
+Copyright 2010 My Hosting. All rights reserved
+[ Copyright 2005-2006 phpDirectorySourceâ„¢, all rights reserved ]
+"index.php?option=com_sef" / "com_sef"
+webwizguestbook_license.asp
+allinurl:"modules/photo/viewcat.php?id"
+details.php?p_id=
+allinurl: "pollBooth.php?op=results"pollID
+content_by_cat.asp?contentid ''catid''
+allinurl: com_pcchess "user_id"
+allinurl: "index.php?p=poll"showresult
+"2007 RADIOZAZA www.radiozaza.de? istek hatti Version 2.5"
+"Factux le facturier libre V 1.1.5"
+inurl:"com_dbquery" OR "index.php?option=com_dbquery"
+"PHP Gallery © 2010 PHP Weby hostgator coupon"
+inurl:module=My_eGallery pid
+"Forum Active Bulletin Board version 1.1 béta 2"
+inurl:/components/je-media-player.html?
+Powered by PBBoard© 2009 Version 2.0.5
+"Powered by: Yes Solutions"
+inurl:.asp? Powered by Comersus ASP Shopping Cart
+allintext:"Browse our directory of our members top sites or create your own for free!"
+"ParsBlogger ? 2006. All rights reserved"
+"Powered by: PhotoPost PHP 4.6" or "Powered by: PhotoPost PHP 4.5"
+"Powered by PG Online Training Solution - learning management system"
+inurl:cart.php?m=features&id=
+intext : "Website by conceptinternetltd"
+Powered by PHP Melody 1.5.3
+Powered by iScripts EasyBiller
+"Powered By phpCOIN v1.2.1" / "mod.php?mod=faq"
+intext:"Powered By WorldPay" inurl:productdetail.php
+inurl:"com_dbquery" OR "index.php?option=com_dbquery"
+Powered by Discuz! 1.0 © 2002, Crossday Studio of 11cn.org
+Power by donghungx. Copyright © 2008 AttMp3.com. All rights reserved.
+"Powered by osCMax v2.0" , "Copyright @" "RahnemaCo.com"
+intext:"Free Ecommerce Shopping Cart Software by ViArt" +"Your shopping cart is empty!" + "Products Search" +"Advanced Search" + "All Categories"
+"powered by WonderEdit Pro"
+inurl:module=My_eGallery pid
+"Forum Active Bulletin Board version 1.1 béta 2"
+inurl:/components/je-media-player.html?
+Powered by PBBoard© 2009 Version 2.0.5
+"Powered by: Yes Solutions"
+inurl:.asp? Powered by Comersus ASP Shopping Cart
+"index.php?option=com_sef" / "com_sef"
+[ Copyright 2005-2006 phpDirectorySourceâ„¢, all rights reserved ]
+Powered by PHP Advanced Transfer Manager v1.10 - @2002 Bugada Andrea
+Powered by cP Creator v2.7.1
+inurl:"guestbook.admin.php?action=settings"
+"Developed by Bispage.com"
+Script créé par Funewik - Dezign-Box © France
+"by in-link" or "Powered by In-Link 2."
+allintext:"Latest Pictures" Name Gender Profile Rating
+Copyright 2008 Free Image & File Hosting
+"PHP Gallery © 2010 PHP Weby hostgator coupon"
+"Send amazing greetings to your friends and relative!"
+Copyright Â© 2007 Agares Media. Powered by AMCMS3.
+inurl:"lista_articulos.php?id_categoria="
+"PHPWebAdmin for hMailServer" intitle:PHPWebAdmin -site:hmailserver.com
+Copyright 2010 My Hosting. All rights reserved
+"PHP Gallery © 2010 PHP Weby hostgator coupon"
+"index.php?option=com_chronocontact" / "com_chronocontact"
+"pages.php?page_ID=" "K9 Kreativity"
+inurl:"picture.php?cat=" "Powered by PhpWebGallery 1.3.4"
+"index.php?option=com_chronoconnectivity" / "com_chronoconnectivity
+"PHP Link Portal v1.95.1 Â© Big Resources, Inc."
+inurl:treplies.asp?message= intitle:ASP Talk
+allinurl:"com_simpleshop"
+content_by_cat.asp?contentid ''catid''
+allinurl: "com_joovideo" detail
+allinurl: "index.php?p=poll"showresult
+"2007 RADIOZAZA www.radiozaza.de? istek hatti Version 2.5"
+"powered by php photo album" -demo2 -pitanje"
+"propulsé par DotClear" "fil atom" "fil rss" +commentaires
+Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top
+"Powered by Burning Board Lite 1.0.2" or "Powered by Burning Board 2.3.6"
+inurl:"tr.php?id=" Short Url & Url Tracker
+inurl:inc_photogallerymanager.asp
+"Powered by ezContents Version 1.4.5"
+"Copyright (c) 2004-2006 by Simple PHP Guestbook"
+inurl:"browse.php?folder=" Powered by GeneShop 5
+inurl:/modules/Partenaires/clic.php?id=
+"powered by DBHcms"
+intext:"sitio web diseñado por www.toronja.com.pe"
+Maian Gallery v2.0 Copyright Â© 2006-2008 Maian Script World. All Rights Reserved.
+Powered By AlstraSoft Video Share Enterprise
+"Powered by PG Real Estate Solution - real estate web site design"
+details.php?p_id=
+intext:Â©2003-2008 RC v3.1 Developed by: GA Soft
+"Powered by FubarForum v1.6"
+inurl:"section.php?name=singers"
+inurl:"index.php?conteudo="
+allinurl:"com_garyscookbook"
+" ActiveKB v1.5 Copyright Â©"
+out.php?linkid=1
+allinurl: com_ricette
+inurl: modifyform.html?code=
+''name Kose_Yazilari op viewarticle artid''
+inurl:cfaq/index.php?catid=
+"Powered by FubarForum v1.6"
+Powered by PHP upload - unijimpe.
+allinurl: com_pcchess "user_id"
+"Powered by PG Roomate Finder Solution - roommate estate web site design"
+inurl:com_forum
+allintext:" If you would like to contact us, our email address is" traffic
+powered by apt-webservice ;apt-webshop-system v3.0
+"powered by jaws" | "powered by the jaws project" | inurl:?gadget=search
+"Powered by PHP-Update" -site:www.php-update.co.uk
+"100% | 50% | 25%" "Back to gallery" inurl:"show.php?imageid="
+"Help * Contact * Imprint * Sitemap" | "powered by papoo" | "powered by cms papoo"
+"Help * Contact * Imprint * Sitemap" | "powered by papoo" | "powered by cms papoo"
+"propulsÃ© par JBlog"
+"Powered by cpCommerce"
+"toendaCMS is Free Software released under the GNU/GPL License." | "powered by toendaCMS" -inurl:demo
+"Powered By Pligg" + "Legal: License and Source"
+"Powered by Drumbeat" inurl:index02.php
+"Designed & Developed by N.E.T E-Commerce Group. All Rights Reserved."
+"Powered by SocketMail Lite version 2.2.8. Copyright Â© 2002-2006"
+Powered by WHMCompleteSolution - OR inurl:WHMCS OR announcements.php
+inurl:inc_catalogmanager.asp
+allinurl: "pollBooth.php?op=results"pollID
+"Factux le facturier libre V 1.1.5"
+inurl:cat1.php?catID= "Spaceacre"
+"FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS
+"Powered by BLOG:CMS"|"Powered by blogcms.com"|"2003-2004, Radek Hulán"
+Maian Music v1.0. Copyright Â© 2007-2008 Maian Script World. All Rights Reserved.
+"Help desk software by United Web Coders rev. 3.0.640"
+"Software PBLang 4.66z" AND "Software PBLang 4.60" OR "Software PBLang"
+intext:"Web design by goffgrafix.com"
+"Welcome to Exponent CMS" | "my new exponent site" inurl:articlemodule
+"PHP Gallery © 2010 PHP Weby hostgator coupon"
+("powered by nocc" intitle:"NOCC Webmail") -site:sourceforge.net -Zoekinalles.nl -analysis
+SmarterMail Enterprise 7.1
+intitle:"X7 Chat Help Center"|"Powered By X7 Chat"
+"This is a Free & Open Source mailing list manager"
+"Powered by sendcard - an advanced PHP e-card program"
+inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe"
+intext:"This site is using phpGraphy" | intitle:"my phpgraphy site"
+"This site is powered by e107"|inurl:e107_plugins|e107_handlers|e107_files
+"Site powered by GuppY" | "Site créé avec GuppY" +inurl:lng=
+"Powered by PHP Photo Album"
+"FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS
+"Powered by Burning Board Lite 1.0.2" or "Powered by Burning Board 2.3.6"
+Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top
+"propulsé par DotClear" "fil atom" "fil rss" +commentaires
+"powered by php photo album" -demo2 -pitanje"
+"Powered By Aardvark Topsites PHP 4.2.2"
+inurl:"com_projectfork"
+inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe"
+intext:"This site is using phpGraphy" | intitle:"my phpgraphy site"
+"toendaCMS is Free Software released under the GNU/GPL License." | "powered by toendaCMS" -inurl:demo
+"Powered by cpCommerce"
+"propulsÃ© par JBlog"
+"Help * Contact * Imprint * Sitemap" | "powered by papoo" | "powered by cms papoo"
+"Help * Contact * Imprint * Sitemap" | "powered by papoo" | "powered by cms papoo"
+"100% | 50% | 25%" "Back to gallery" inurl:"show.php?imageid="
+"Powered by PHP-Update" -site:www.php-update.co.uk
+"powered by jaws" | "powered by the jaws project" | inurl:?gadget=search
+"FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS
+"Powered by BLOG:CMS"|"Powered by blogcms.com"|"2003-2004, Radek Hulán"
+"FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS
+"Powered by PHP Photo Album"
+"Site powered by GuppY" | "Site créé avec GuppY" +inurl:lng=
+"This site is powered by e107"|inurl:e107_plugins|e107_handlers|e107_files
+intext:"Powered by PHPCityPortal.com"
+intitle:"jGallery"
+"Powered by Download 3000"
+intext:"Kalimat news system v 1.0"
+"Powered by CommonSense CMS"
+"Eyeland Studio Inc. All Rights Reserved." inurl:game.php
+"powered by Pagetool"
+powered by jshop
+/modules/mx_links/
+inurl:"?pageNum_RSnews"&view
+inurl:index.php?option=com_directory
+"Powered By DynamicPAD"
+"Powered by : elkagroup.com"
+"com_joom12pic"
+"Starting bid" "Powered by SoftbizScripts"
+"Liberum Help Desk, Copyright (C) 2001 Doug Luxem. Please view the license
+allinurl:"jokes.php?catagorie="
+"powered by phpmydirectory" OR intext:"2001-2006 phpMyDirectory.com"
+"Powered by VS PANEL"
+intitle:"zFeeder admin panel"
+Powered by WebStudio
+inurl:"select_file2.php"
+"powered by Gradman"
+"Designed and Developed by Debliteck Ltd"
+"Powered by mlffat"
+inurl:"/squirrelcart/" -squirrelcart.com
+Engine powered by easyLink V1.1.0.
+allintext: "This site is powered by IndexScript"
+Â©2005 Ocean12 Technologies. All rights reserved
+"powered by PassWiki"
+"software 2004-2005 by randshop"
+"powered by phpEmployment"
+inurl:"wp-download.php?dl_id="
+"Created by weenCompany"
+inurl:"guestbook.admin.php?action=settings"
+inurl:"picture.php?cat=" "Powered by PhpWebGallery 1.3.4"
+"index.php?option=com_chronoconnectivity" / "com_chronoconnectivity
+Powered by cP Creator v2.7.1
+Powered by PHP Advanced Transfer Manager v1.10 - @2002 Bugada Andrea
+Powered by iScripts EasyBiller
+"Powered By phpCOIN v1.2.1" / "mod.php?mod=faq"
+intext:"Powered By WorldPay" inurl:productdetail.php
+inurl:"com_dbquery" OR "index.php?option=com_dbquery"
+Powered by Discuz! 1.0 © 2002, Crossday Studio of 11cn.org
+Power by donghungx. Copyright © 2008 AttMp3.com. All rights reserved.
+"Powered by osCMax v2.0" , "Copyright @" "RahnemaCo.com"
+intext:"Free Ecommerce Shopping Cart Software by ViArt" +"Your shopping cart is empty!" + "Products Search" +"Advanced Search" + "All Categories"
+"powered by WonderEdit Pro"
+"PHP Link Portal v1.95.1 Â© Big Resources, Inc."
+"pages.php?page_ID=" "K9 Kreativity"
+"index.php?option=com_chronocontact" / "com_chronocontact"
+"Developed by Bispage.com"
+Script créé par Funewik - Dezign-Box © France
+"by in-link" or "Powered by In-Link 2."
+allintext:"Latest Pictures" Name Gender Profile Rating
+inurl:"noticias.php?notiId="
+Copyright 2008 Free Image & File Hosting
+"PHP Gallery © 2010 PHP Weby hostgator coupon"
+"Send amazing greetings to your friends and relative!"
+"PHP Gallery © 2010 PHP Weby hostgator coupon"
+Copyright Â© 2007 Agares Media. Powered by AMCMS3.
+inurl:"lista_articulos.php?id_categoria="
+"PHPWebAdmin for hMailServer" intitle:PHPWebAdmin -site:hmailserver.com
+Copyright 2010 My Hosting. All rights reserved
+"PHP Gallery © 2010 PHP Weby hostgator coupon"
+[ Copyright 2005-2006 phpDirectorySourceâ„¢, all rights reserved ]
+"index.php?option=com_sef" / "com_sef"
+inurl:.asp? Powered by Comersus ASP Shopping Cart
+index.php?option=com_mambads
+"AlumniServer project"
+Powered by PHP F1 (Max's Photo Album)
+"Powered by LightNEasy"
+"The Merchant Project"
+intitle:"Directory Listing For /" + inurl:webdav tomcat
+"Search Projects" intitle:"The ultimate project website"
+Powered by Dodo, Bubo & Misty. Feed us!
+allinurl:"shop.htm?shopMGID="
+"By Geeklog" "Created this page in" +seconds +powered inurl:public_html
+"Powered by LifeType" "RSS 0.90" "RSS 1.0" "RSS 2.0" "Valid XHTML 1.0 Strict and CSS"
+inurl:pmwiki.php +"Page last modified on" | PmWikiPhilosophy
+"Powered by UPB"
+"Powered by Claroline" -demo
+inurl:"com_icrmbasic"
+intitle:admbook intitle:version filetype:php
+"Powered by: Yes Solutions"
+Powered by PBBoard© 2009 Version 2.0.5
+inurl:/components/je-media-player.html?
+"Forum Active Bulletin Board version 1.1 béta 2"
+inurl:module=My_eGallery pid
+"By Geeklog" "Created this page in" +seconds +powered
+inurl:"xampp/biorhythm.php"
+inurl:"/modules/glossaire/"
+index.php?option=com_is
+Powered by Ninja Designs This is a port of WordPress
+Copyright 1999-2010 Rocksalt International Pty Ltd. All rights reserved
+inurl:"/modules/wfsection/"
+intext:"phpbb - auction" inurl:"auction"
+Powered by Forums W-Agora
+inurl:forum_answer.php?que_id
+allinurl:index.php?act=publ
+inurl:"com_cartweberp"
+"Search | Invite | Mail | Blog | Forum"
+"AcmlmBoard v1.A2"
+inurl:index.php?option=com_mambads
+"© Sabdrimer CMS"
+Powered by Maian Cart v1.1
+Thyme 1. Â© 2006 eXtrovert Software LLC. All rights reserved
+eXV2 MyAnnonces
+inurl:"/go/_files/?file="
+inurl:"option=com_camelcitydb2"
+"BlogMe PHP created by Gamma Scripts"
+Powered by PacerCMS
+inurl:com_expshop
+intitle:"ITech Bids"
+"Script réalisé par BinGo PHP"
+" Powered by JTL-Shop 2"
+"Torbstoff News 4"
+intext:Powered by MX-System 2.7.3
+"Powered By 4smart"
+powered by webit! cms
+"propulsé par DotClear" "fil atom" "fil rss" +commentaires
+AlstraSoft Web "ESE"
+Powered By DataLife Engine
+inurl:"modules.php?name=My_eGallery"
+"Marketplace Version 1.1.1"
+"Powered by Ajax Portal 3.0"
+"Powered By IP.Board 3.0.0 Beta 5"
+"MunzurSoft Wep Portal W3"
+Powered by Blox CMS from TownNews.com
+allinurl :"wp-content/plugins/st_newsletter"
+"© 2008 DevWorx - devworx.somee.com"
+inurl:"com_pollxt"
+Powered by PHP Links from DeltaScripts
+inurl:index.php?option=com_calendario
+Powered by PNphpBB2 / Powered por PNphpBB2
+"Powered by Nukedit"
+Powered by SkaLinks
+"Généré par KDPics v1.18"
+inurl:"nabopoll/"
+allinurl :"modules/eblog"
+"Powered By W3infotech"
+"Browse with Interactive Map"
+Power by donghungx. Copyright © 2008 AttMp3.com. All rights reserved.
+intext:"phpbb - auction" inurl:"auction"
+Powered by Forums W-Agora
+intitle:admbook intitle:version filetype:php
+inurl:"com_icrmbasic"
+index.php?option=com_mambads
+"AlumniServer project"
+Powered by PHP F1 (Max's Photo Album)
+"Powered by LightNEasy"
+"The Merchant Project"
+intitle:"Directory Listing For /" + inurl:webdav tomcat
+"Search Projects" intitle:"The ultimate project website"
+Powered by Dodo, Bubo & Misty. Feed us!
+allinurl:"shop.htm?shopMGID="
+"By Geeklog" "Created this page in" +seconds +powered inurl:public_html
+"Powered by LifeType" "RSS 0.90" "RSS 1.0" "RSS 2.0" "Valid XHTML 1.0 Strict and CSS"
+inurl:pmwiki.php +"Page last modified on" | PmWikiPhilosophy
+"Powered by UPB"
+inurl:"/modules/wfsection/"
+Copyright 1999-2010 Rocksalt International Pty Ltd. All rights reserved
+"Powered by osCMax v2.0" , "Copyright @" "RahnemaCo.com"
+intext:"Free Ecommerce Shopping Cart Software by ViArt" +"Your shopping cart is empty!" + "Products Search" +"Advanced Search" + "All Categories"
+"powered by WonderEdit Pro"
+"PHP Link Portal v1.95.1 Â© Big Resources, Inc."
+[ Copyright 2005-2006 phpDirectorySourceâ„¢, all rights reserved ]
+"index.php?option=com_sef" / "com_sef"
+inurl:.asp? Powered by Comersus ASP Shopping Cart
+"Powered by: Yes Solutions"
+Powered by PBBoard© 2009 Version 2.0.5
+inurl:/components/je-media-player.html?
+"Forum Active Bulletin Board version 1.1 béta 2"
+inurl:module=My_eGallery pid
+"By Geeklog" "Created this page in" +seconds +powered
+inurl:"xampp/biorhythm.php"
+inurl:"/modules/glossaire/"
+index.php?option=com_is
+Powered by Ninja Designs This is a port of WordPress
+"Powered by Claroline" -demo
+"Galerie 3.2 Â© 2004 by progressive"
+"Powered By Pligg" + "Legal: License and Source"
+SmarterMail Enterprise 7.1
+("powered by nocc" intitle:"NOCC Webmail") -site:sourceforge.net -Zoekinalles.nl -analysis
+inurl:com_colophon
+inurl:inc_photogallerymanager.asp
+inurl:"tr.php?id=" Short Url & Url Tracker
+"Powered by Burning Board Lite 1.0.2" or "Powered by Burning Board 2.3.6"
+Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top
+"ActualAnalyzer Lite (free) 2.78"+"Copyright Â© 2006 ActualScripts"
+"powered by php photo album" -demo2 -pitanje"
+powered by vpasp v 6.50
+allinurl:"/questcms/"
+inurl:com_eQuotes
+"Powered by Xplode CMS"
+Powered by Jewelry Cart Software
+"Diseño Web Hernest Consulting S.L."
+inurl:com_cpg
+inurl:ratelink.php?lnkid=
+intitle:"X7 Chat Help Center"|"Powered By X7 Chat"
+"This is a Free & Open Source mailing list manager"
+"toendaCMS is Free Software released under the GNU/GPL License." | "powered by toendaCMS" -inurl:demo
+"Powered by cpCommerce"
+"propulsÃ© par JBlog"
+"Help * Contact * Imprint * Sitemap" | "powered by papoo" | "powered by cms papoo"
+"Help * Contact * Imprint * Sitemap" | "powered by papoo" | "powered by cms papoo"
+"100% | 50% | 25%" "Back to gallery" inurl:"show.php?imageid="
+"Powered by PHP-Update" -site:www.php-update.co.uk
+"powered by jaws" | "powered by the jaws project" | inurl:?gadget=search
+"FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS
+"Powered by BLOG:CMS"|"Powered by blogcms.com"|"2003-2004, Radek Hulán"
+"FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS
+"Powered by PHP Photo Album"
+"Site powered by GuppY" | "Site créé avec GuppY" +inurl:lng=
+"This site is powered by e107"|inurl:e107_plugins|e107_handlers|e107_files
+intext:"This site is using phpGraphy" | intitle:"my phpgraphy site"
+inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe"
+"Powered by sendcard - an advanced PHP e-card program"
+index.php?option=com_facileforms
+team5 studio all rights reserved site:cn
+"Powered by SoftbizScripts" "ALL JOBS"
+"Powered by PsNews"
+"powered by LionWiki "
+intext:"powered by itaco group"
+inurl:modules.php?name=Shopping_Cart
+"Liberum Help Desk, Copyright (C) 2001 Doug Luxem"
+"Powered by SoftbizScripts" "OUR SPONSORS"
+inurl:index.php?mod=ConcoursPhoto
+inurl:JBSPro
+allinurl:"macgurublog.php?uid="
+inurl:"com_book"
+Powered By PHPhotoalbum
+phpBazar Ver. 2.1.0
+inurl:"index.php?option=com_oziogallery"
+Powered By phpCOIN 1.2.3
+inurl:inc_paypalstoremanager.asp
+inurl:inc_newsmanager.asp
+inurl:tr.php?id= Hosting
+"Copyright Interactivefx.ie"
+allinurl: "/modules/myTopics/"
+"pForum 1.29a" OR ""Powie's PSCRIPT Forum 1.26"
+allinurl: com_gallery "func"
+/modules/amevents/print.php?id=
+"Powered by FubarForum v1.5"
+inurl:com_idoblog
+inurl:"myLDlinker.php"
+Powered By phUploader
+allinurl:"index.php?site=" "W-Agora"
+inurl:"com_ckforms"
+"Members Statistics" +"Total Members" +"Guests Online"
+inurl:com_jomestate
+"PhpLinkExchange v1.02"
+inurl:inc_accountlistmanager.asp
+"ClanSys v.1.1"
+allinurl: "showCat.php?cat_id"
+Powered by MVC-Web CMS inurl:/index.asp?newsid=
+inurl:"index.php?m_id="
+"FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS
+"Powered by Clicknet CMS"
+[ Copyright 2005-2006 phpDirectorySourceâ„¢, all rights reserved ]
+"By Geeklog" "Created this page in" +seconds +powered inurl:public_html
+allinurl:"shop.htm?shopMGID="
+Powered by Dodo, Bubo & Misty. Feed us!
+"Search Projects" intitle:"The ultimate project website"
+intitle:"Directory Listing For /" + inurl:webdav tomcat
+"The Merchant Project"
+"Powered by LightNEasy"
+Powered by PHP F1 (Max's Photo Album)
+"Powered by LifeType" "RSS 0.90" "RSS 1.0" "RSS 2.0" "Valid XHTML 1.0 Strict and CSS"
+inurl:pmwiki.php +"Page last modified on" | PmWikiPhilosophy
+"Help * Contact * Imprint * Sitemap" | "powered by papoo" | "powered by cms papoo"
+"propulsÃ© par JBlog"
+"Powered by cpCommerce"
+"toendaCMS is Free Software released under the GNU/GPL License." | "powered by toendaCMS" -inurl:demo
+"Powered By Pligg" + "Legal: License and Source"
+"Galerie 3.2 Â© 2004 by progressive"
+"Powered by Claroline" -demo
+"Powered by UPB"
+"AlumniServer project"
+index.php?option=com_mambads
+"By Geeklog" "Created this page in" +seconds +powered
+inurl:module=My_eGallery pid
+"Forum Active Bulletin Board version 1.1 béta 2"
+inurl:/components/je-media-player.html?
+Powered by PBBoard© 2009 Version 2.0.5
+"Powered by: Yes Solutions"
+inurl:.asp? Powered by Comersus ASP Shopping Cart
+"index.php?option=com_sef" / "com_sef"
+inurl:"xampp/biorhythm.php"
+inurl:"/modules/glossaire/"
+inurl:"com_icrmbasic"
+intitle:admbook intitle:version filetype:php
+Powered by Forums W-Agora
+intext:"phpbb - auction" inurl:"auction"
+inurl:"/modules/wfsection/"
+Copyright 1999-2010 Rocksalt International Pty Ltd. All rights reserved
+Powered by Ninja Designs This is a port of WordPress
+index.php?option=com_is
+"Help * Contact * Imprint * Sitemap" | "powered by papoo" | "powered by cms papoo"
+"100% | 50% | 25%" "Back to gallery" inurl:"show.php?imageid="
+"inc_webblogmanager.asp"
+"powered by Photo-Graffix Flash Image Gallery"
+"Powered by ECShop v2.5.0"
+inurl:"tinybrowser.php?"
+intitle:"Answer Builder" Ask a question
+UPublisher
+intext: "Powered by Marinet"
+"powered by php photo album" -demo2 -pitanje"
+inurl:tr.php?id=
+inurl:index.php?mod=jeuxflash
+inurl:com_beamospetition
+inurl:com_netinvoice
+allinurl: "modules/glossaires"
+"MobPartner Counter" "upload files"
+''com_noticias''
+inurl:tr.php?id=
+intext:"Design by MMA Creative"
+allinurl :"modules/gallery"
+"propulsé par DotClear" "fil atom" "fil rss" +commentaires
+Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top
+intext:"This site is using phpGraphy" | intitle:"my phpgraphy site"
+"This site is powered by e107"|inurl:e107_plugins|e107_handlers|e107_files
+"Site powered by GuppY" | "Site créé avec GuppY" +inurl:lng=
+"Powered by PHP Photo Album"
+"FlatNuke" "Valid HTML 4.01!" "Valid CSS!" "Get RSS 2.0 Feed" "Get RSS
+"Powered by BLOG:CMS"|"Powered by blogcms.com"|"2003-2004, Radek Hulán"
+"powered by jaws" | "powered by the jaws project" | inurl:?gadget=search
+"Powered by PHP-Update" -site:www.php-update.co.uk
+inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe"
+"Powered by sendcard - an advanced PHP e-card program"
+"Powered by Burning Board Lite 1.0.2" or "Powered by Burning Board 2.3.6"
+inurl:"tr.php?id=" Short Url & Url Tracker
+inurl:inc_photogallerymanager.asp
+inurl:com_rapidrecipe "recipe_id"
+("powered by nocc" intitle:"NOCC Webmail") -site:sourceforge.net -Zoekinalles.nl -analysis
+SmarterMail Enterprise 7.1
+intitle:"X7 Chat Help Center"|"Powered By X7 Chat"
+"This is a Free & Open Source mailing list manager"
+inurl:"links_showcat.php?"
+Powered by SH-News 3.0
+"CaLogic Calendars V1.2.2"
+inurl:"com_pollxt"
+Powered by PHP Links from DeltaScripts
+inurl:index.php?option=com_calendario
+Powered by PNphpBB2 / Powered por PNphpBB2
+"Powered by Nukedit"
+Powered by "vcart 3.3.2"
+Powered by SkaLinks
+"Généré par KDPics v1.18"
+inurl:"nabopoll/"
+allinurl :"modules/eblog"
+Powered By DataLife Engine
+"© Sabdrimer CMS"
+AlstraSoft Web "ESE"
+Powered by Maian Cart v1.1
+Thyme 1. Â© 2006 eXtrovert Software LLC. All rights reserved
+eXV2 MyAnnonces
+"BlogMe PHP created by Gamma Scripts"
+inurl:"/go/_files/?file="
+inurl:"option=com_camelcitydb2"
+Powered by PacerCMS
+inurl:com_expshop
+intitle:"ITech Bids"
+"Script réalisé par BinGo PHP"
+Powered by CS-Cart - Shopping Cart Software
+inurl:com_colophon
+" Powered by JTL-Shop 2"
+"Powered by PHP Shop from DeltaScripts"
+"Powered by sNews " inurl:index.php?id=
+"Torbstoff News 4"
+intext:Powered by MX-System 2.7.3
+"Powered By 4smart"
+intext:"Powered by Arcade Builder"
+inurl:"index.php?id_menu="
+Powered By Coppermine Photo Gallery v1.2.2b /Powered By Coppermine
+Â© 2005-2006 Powered by eSyndiCat Directory Software
+"powered by Nabernet"
+"Powered by VS PANEL 7.5.5"
+"powered by easytrade"
+inurl:"articles.php?topic="
+inurl:"classifieds.php?op=detail_adverts"
+"Emefa Guestbook V 3.0"
+powered by webit! cms
+"wow roster version 1.*"
+inurl:com_DTRegister eventId
+"wow roster version 1.5.*"
+Powered by free simple software
+"TR Newsportal" brought by TRanx.
+Powered by Minerva 237
+"Powered By W3infotech"
+inurl:"option=com_org"
+"Powered by GameSiteScript"
+Powered by: Con-Imedia
+(c) SriptBux 2008 | Powered By ScriptBux version 2.50 beta 1
+"powered by twg"
+allinurl:/phpress/
+"Powered by sendcard - an advanced PHP e-card program" -site:sendcard.org
+intext: "Powered by Marinet"
+UPublisher
+intitle:"Answer Builder" Ask a question
+inurl:"tinybrowser.php?"
+"Powered by ECShop v2.5.0"
+"powered by Photo-Graffix Flash Image Gallery"
+"inc_webblogmanager.asp"
+inurl:tr.php?id=
+inurl:index.php?mod=jeuxflash
+allinurl :"modules/gallery"
+intext:"Design by MMA Creative"
+inurl:tr.php?id=
+''com_noticias''
+"MobPartner Counter" "upload files"
+allinurl: "modules/glossaires"
+inurl:com_netinvoice
+inurl:com_beamospetition
+"com_lmo"
+"Powered by Clicknet CMS"
+Igloo (interest group glue)
+inurl:"com_acstartseite"
+"Powered by Populum"
+"Powered by PWP Version 1-5-1" AND inurl:"/wiki/run.php"
+intext:"Design by BB Media.Org"
+inurl:"com_acprojects"
+inurl:"com_acteammember"
+Powered by Maian Weblog v4.0
+Powered by: Maian Recipe v1.2
+Powered by: Maian Search v1.1
+Powered by: Maian Links v3.1
+Powered by: Maian Uploader v4.0
+"Powered By Steamcast "0.9.75 beta
+Powered by Maian Guestbook v3.2
+inurl:acrotxt.php wbb
+Designed by:InterTech Co
+allinurl: cid"modules/classifieds/index.php?pa=Adsview"
+News powered by ashnews
+allinurl: "modules MyAnnonces index php pa view"
+"News Managed by Ditto News"
+Coded By WebLOADER
+"Powered by Philboard" inurl:"philboard_forum.asp"
+inurl:"com_jjgallery
+intext:"jPORTAL 2" inurl:"mailer.php"
+inurl:CuteSoft_Client/CuteEditor
+ActionnÃƒÂ©e par smartblog
+inurl:tr.php?id=
+inurl:tr.php?id=
+allintext:"Browse Blogs by Category"
+inurl:option=com_mydyngallery
+inurl:index.php?mod=sondages
+inurl:"tr1.php?id=" Forced Matrix
+allintext:"SuperCali Event Calendar"
+inurl:"com_ckforms"
+inurl:"com_prayercenter"
+ADP Forum 2.0.3 is powered by VzScripts
+inurl:"com_ccnewsletter"
+inurl:"add_soft.php"
+pages.php?id= "Multi Vendor Mall"
+"Search Affiliate Programs:"
+intitle:"Dacio's Image Gallery"
+"Website by Spokane Web Communications"
+"powered by Nabernet"
+"Powered by VS PANEL 7.5.5"
+"powered by easytrade"
+inurl:"articles.php?topic="
+inurl:"classifieds.php?op=detail_adverts"
+"Emefa Guestbook V 3.0"
+powered by webit! cms
+"wow roster version 1.*"
+inurl:com_DTRegister eventId
+"wow roster version 1.5.*"
+Powered by free simple software
+"TR Newsportal" brought by TRanx.
+Powered by Minerva 237
+"Powered By W3infotech"
+inurl:"option=com_org"
+"Powered by GameSiteScript"
+Powered by: Con-Imedia
+(c) SriptBux 2008 | Powered By ScriptBux version 2.50 beta 1
+"powered by twg"
+allinurl:/phpress/
+"Powered by sendcard - an advanced PHP e-card program" -site:sendcard.org
+intext: "Powered by Marinet"
+UPublisher
+intitle:"Answer Builder" Ask a question
+inurl:"tinybrowser.php?"
+"Powered by ECShop v2.5.0"
+"powered by Photo-Graffix Flash Image Gallery"
+"inc_webblogmanager.asp"
+inurl:tr.php?id=
+inurl:index.php?mod=jeuxflash
+allinurl :"modules/gallery"
+intext:"Design by MMA Creative"
+inurl:tr.php?id=
+''com_noticias''
+"MobPartner Counter" "upload files"
+allinurl: "modules/glossaires"
+inurl:com_netinvoice
+inurl:com_beamospetition
+"com_lmo"
+"Powered by Clicknet CMS"
+Igloo (interest group glue)
+inurl:"com_acstartseite"
+"Powered by Populum"
+"Powered by PWP Version 1-5-1" AND inurl:"/wiki/run.php"
+intext:"Design by BB Media.Org"
+inurl:"com_acprojects"
+inurl:"com_acteammember"
+Powered by Maian Weblog v4.0
+Powered by: Maian Recipe v1.2
+Powered by: Maian Search v1.1
+Powered by: Maian Links v3.1
+Powered by: Maian Uploader v4.0
+"Powered By Steamcast "0.9.75 beta
+Powered by Maian Guestbook v3.2
+inurl:acrotxt.php wbb
+Designed by:InterTech Co
+allinurl: cid"modules/classifieds/index.php?pa=Adsview"
+News powered by ashnews
+allinurl: "modules MyAnnonces index php pa view"
+"News Managed by Ditto News"
+Coded By WebLOADER
+"Powered by Philboard" inurl:"philboard_forum.asp"
+inurl:"com_jjgallery
+intext:"jPORTAL 2" inurl:"mailer.php"
+inurl:CuteSoft_Client/CuteEditor
+ActionnÃƒÂ©e par smartblog
+inurl:tr.php?id=
+inurl:tr.php?id=
+allintext:"Browse Blogs by Category"
+inurl:option=com_mydyngallery
+inurl:index.php?mod=sondages
+inurl:"tr1.php?id=" Forced Matrix
+allintext:"SuperCali Event Calendar"
+inurl:"com_ckforms"
+inurl:"com_prayercenter"
+ADP Forum 2.0.3 is powered by VzScripts
+inurl:"com_ccnewsletter"
+inurl:"add_soft.php"
+pages.php?id= "Multi Vendor Mall"
+"Search Affiliate Programs:"
+intitle:"Dacio's Image Gallery"
+"Website by Spokane Web Communications"
+"powered by: elkagroup"
+"powered by AllMyGuests"
+allinurl : /web3news/
+Powered by BoutikOne®
+" Powered by Xpoze "
+allinurl:"macgurublog.php?uid="
+powered by AirvaeCommerce 3.0
+inurl: "tops_top.php? id_cat ="
+PHPEmailManager
+"Powered by ExBB "
+"Powered by Locazolist Copyright © 2006"
+"txx cms"
+inurl:"printer.asp?forum="
+inurl:"com_ownbiblio" catalogue
+"CMS Webmanager-pro"
+inurl:"/geeklog/"
+inurl:/webCal3_detail.asp?event_id=
+inurl:classifieds/view.php?category=
+"Signkorn Guestbook 1.3"
+inurl:"powered by eggblog"
+"pForum 1.30"
+Powered By AJ Auction
+faqview.asp?key
+"Powered by: MFH v1"
+inurl:"com_beamospetition"
+"Powered By 4smart"
+inurl :/PhotoCart/
+"Powered by GetMyOwnArcade"
+Powered By : PersianBB.com
+"Powered by Simple PHP Text newsletter"
+allinurl: "com_estateagent"
+powered by Php Blue Dragon Platinum
+"Powered by DZcms"
+inurl:"com_event"
+inurl:"/alternate_profiles/"
+"This website is powered by Mobius"
+intitle:WEBEYES GUEST BOOK inurl:.asp?id=
+"visiteurs v2.0"
+inurl:"com_portfol"
+"Powered by ZeeMatri"
+inurl:tr.php?id= Banner
+Powered By: 4images 1.7.1
+intext:"Powered by Max.Blog"
+intitle:USP FOSS Distribution
+inurl:"vbplaza.php?do="
+allintext:"Powered by: TotalCalendar"
+Powered by PHP Dir Submit - Directory Submission Script
+intitle:"MAXSITE"
+Power with ecsportal rel 6.5
+inurl:"list.php?c="
+Powered by YaBBSM V2.5.0 Based on YABB SE
+"Powered by YDC"
+Powered by emuCMS
+intitle:"Rx08.ii36B.Rv"
+intext:"Design by BB Media.Org"
+calendar.asp?eventdetail
+Powered by Multi Website 1.5
+Powered by iScripts VisualCaster
+"Powered by DesClub.com - phpLinkat"
+Powered by: Zanfi Solutions
+inurl:"com_equipment"
+"Everyone should be on TV! Now you can upload 2 TV"
+" created by creato.biz "
+"Powered by: Southburn"
+infusions/raidtracker_panel/thisraidprogress.php?
+inurl:"phpsecurepages"
+allinurl: "index.php?mod=galerie"action=gal
+Site créé avec GuppY v4.5.18 ©
+intext:"Powered by WSN Links Basic Edition"
+inurl:"/index.php?option=com_rsfiles"
+Powered By AstroSPACES
+Powered by FluentCMS
+inurl:dpage.php?docID
+inurl:"index.php?option=com_iproperty"
+"Powered by WebStudio eCatalogue"
+powered by JAF CMS © 2004 - 2006
+"Powered by NovaBoard v1.1.2"
+inurl:/downlot.php?file=
+inurl:"read.asp?fID="
+"Powered By The Black Lily 2007"
+inurl:"simpleblog3"
+allinurl:/m2f_usercp.php?
+powered by Dreampics Builder
+inurl:"classifide_ad.php"
+inurl:/jobsearchengine/
+allinurl:"com_n-gallery"
+inurl:com_pinboard
+"Â© 2005-2006 Powered by eSyndiCat Link Exchange Script"
+cat_sell.php?cid= or selloffers.php?cid=
+"Powered By Azadi Network"
+"Powered by i-pos Storefront"
+intitle:"ASP inline corporate calendar" inurl:.asp?id=
+inurl:friend.php?op=FriendSend
+inurl:com_gamesbox
+"Powered by INVOhost"
+"Powered by WebStudio eHotel"
+inurl:com_redshop
+"Powered by yacs"
+"(C) by CyberTeddy"
+"Powered by Shout!"
+"2007 BookmarkX script"
+Doop CMS
+"powered by sazcart"
+inurl:com_community
+allinurl:"/questcms/"
+inurl:news.php?mode=voir
+" Powered by Pie Cart Pro "
+inurl:index.php?ini[langpack]=
+allinurl:"channel_detail.php?chid="
+inurl:apages.php
+"Designed & Developed by net-finity"
+intext:Powered by CPA Site Solutions
+ClearBudget v0.6.1
+inurl:func=selectcat + com_remository
+"ShopMaker v1.0"
+"Powered by jSite 1.0 OE"
+Powered by Online Email Manager
+"Web Site Design by Red Cat Studios"
+inurl:"webboard/view.php?topic="
+/index.php?option=com_restaurante
+inurl:"com_portfol"
+intitle:"DUcalendar 1.0"
+inurl:/infusions/e_cart
+allinurl:flashblog.html "flashblog"
+com_easybook
+inurl:index.php?option=com_nicetalk
+Powered by CMScout (c)2005 CMScout Group
+powered by minimal Gallery 0.8
+powered by sX-Shop
+inurl:"com_ignitegallery"
+inurl:com_brightweblinks
+Powered by odlican.net cms v.1.5
+Powered By form2list
+inurl:/_blogadata/
+SPBOARD v4.5
+inurl:com_jmarket
+inurl:com_jtickets
+inurl:"com_rwcards"
+"index.php?sbjoke_id="
+"This website was created with phpWebThings"
+inurl:questions.php?idcat
+photokorn 1.52
+Powered by SAPID CMF Build 87
+inurl:"directory.php?cat=" pubs
+inurl:"userjournals.php?blog."
+inurl:"com_youtube"
+inurl:"index.php?serverid="
+inurl:"com_photoblog"
+inurl:indexmess.php
+Powered by phpFaber URLInn. Copyright Â© 2004-2006 phpFaber
+inurl:com_joomradio
+inurl:com_jnewsletter
+inurl:inc_classifiedlistingsmanager.asp
+Powered by Online Guestbook Pro
+inurl:"track.php?id="
+inurl:com_jcommunity
+/modules/tadbook2/open_book.php?book_sn=
+''links.asp?CatId''
+inurl:"search_form.php?sb_showresult="
+Powered by boastMachine v3.1
+"index.php?section=post_upload"
+Copyright 2007, PHPAUCTION.NET
+Online Booking Manager2.2
+"cms SunLight 5.2"
+option=com_paxxgallery
+inurl:index.php?option=com_NeoRecruit
+"Powered by Battle Blog"
+inurl:"vcalendar_asp"
+inurl:"com_simpledownload"
+allinurl :"/modules/tutorials/"
+powered by joovili
+intext:Powered by SaphpLesson 4.0
+infusions/triscoop_race_system/race_details.php?
+intext:"Event List 0.8 Alpha by schlu.net "
+developed by ARWScripts.com
+"powered by CMS Made Simple version 1.1.2"
+inurl:"view.php?ItemID=" rating "rate this review"
+"Webdesign Cosmos Solutions"
+inurl:cal_cat.php?op=
+inurl:com_liveticker
+intext:"Powered by the 1-2-3 music store"
+?action=pro_show and ?action=disppro
+Powered by WebspotBlogging
+"powered by vsp stats processor"
+inurl:employer_profile.php?compid=
+inurl:com_awd_song
+"MangoBery 1.0 Alpha"
+inurl:view_group.php?id=
+allinurl: "index.php?p=gallerypic img_id"
+allinurl:com_jpad
+allinurl:"com_candle"
+"powered by FlatPress"
+inurl:ugroups.php?UID=
+allinurl:option=com_livechat
+Powered by phpMyDesktop|arcade v1.0 (final)
+inurl:com_products "intCategoryId"
+inurl:index.php?mod=jeuxflash
+inurl:"track.php?id="
+"Ladder Scripts by"
+"powergap" or "s04.php" or s01.php or s02.php
+"PKs Movie Database"
+inurl:enq/big.asp?id=
+allintext:"Powered By Buddy Zone"
+intext:" Website Design and Hosting By Netricks, Inc."
+com_thyme
+"PHP WEBQUEST VERSION " or inurl:"/phpwebquest/"
+All right reserved 2002-2003 (MSN/Web Server Creator)
+"Powerd by www.e-webtech.com"
+powered by PhpMesFilms
+"Internet Photoshow - Slideshow"
+inurl:choosecard.php?catid=
+"Powered by Real Estate Portal"
+inurl:browsecats.php?cid=
+inurl:com_mdigg
+inurl:trr.php?id=
+inurl:"kroax.php?category"
+"Powered by Reciprocal Links Manager"
+intext:"Powered by eDocStore"
+Powered by AM4SS 1.0
+"Powered by AlstraSoft SendIt Pro"
+inurl:com_content
+inurl:"index.php?option=com_huruhelpdesk"
+Powered by Article Directory
+"Copyright 2005 Affiliate Directory"
+inurl:"index.php?option=com_bookjoomlas"
+DevMass Shopping Cart
+inurl:index.php?option=com_allhotels
+"powered by aflog"
+inurl:"index.php?option=com_simplefaq"
+inurl:couponsite/index.php?page=
+inurl:"directory.php?ax=list" gaming
+"script by RECIPE SCRIPT"
+inurl:"index.php?option=com_jobline"
+Dosya Yukle Scrtipi v1.0
+allinurl: modules-php-op-modload "req view_cat"
+"Powered by Absolute File Send"
+inurl:wapmain.php?option=
+allinurl:"com_na_content"
+inurl:"com_jcalpro"
+Powered by Webiz
+inurl:category.php?cate_id=
+CaLogic Calendars V1.2.2
+"Powered by Rock Band CMS 0.10"
+Copyright Acme 2008
+"Creative Guestbook"
+"DeeEmm CMS"
+powered by vBulletin 4.0.4
+"Vivid Ads Shopping Cart"
+inurl:"/rbfminc/"
+intext:Powered by AWCM v2.1
+"Powered By AlstraSoft AskMe Pro"
+allinurl:"com_neogallery"
+inurl:"com_category"
+"Powered By Zoopeer"
+inurl:index.php?ortupg=
+inurl:com_jomtube
+"Powered by web directory script"
+inurl:com_gigcal
+Powered MarketSaz
+inurl:com_ezautos
+"Designed & Developed by Zeeways.com"
+inurl:option=com_education_classes
+allinurl:"lyrics_menu/lyrics_song.php?l_id="
+infusions/recept/recept.php?
+"Powered By diskos"
+Copyright 2006 Â© Flax Article Manager v1.1
+Powered by PHP Image Gallery
+Powered By Pligg | Legal: License and Source
+inurl:/_blogadata/
+inurl:"com_a6mambocredits"
+"index.php?id_menu=" CMScontrol
+inurl:"com_eventcal"
+"and Powered By :Sansak"
+inurl:profile.php?mode=
+Powered By SalSa Creations
+inurl:modules.php?op= "pollID"
+"Powered by SazCart"
+intext:"Powered by Max.Blog"
+"Powered by CMSimple"
+inurl:"com_performs"
+inurl:"com_mambowiki"
+index.asp?archivio=OK
+album.asp?pic= .jpg cat=
+"Multi-Page Comment System"
+inurl:"com_wmtpic"
+inurl:index.php?mode=game_player
+album.asp?pic= .jpg cat=
+inurl:"option=com_simpleshop" & inurl:"viewprod"
+intext:"Powered by Community CMS"
+"Powered by Scallywag"
+inurl:"phshoutbox.php"
+"index.php?option=com_seyret" / "com_seyret"
+inurl:inc_memberdirectorymanager.asp
+inurl:"mod=notizie"
+"Powered By ScozNews"
+"PHP BP Team"
+inurl:"zcat.php?id="
+inurl:K-Search, Powered By K-Search
+inurl:"com_mscomment"
+Powered by Mitra Informatika Solusindo
+2009 © Satellite-X
+"Powered by bSpeak 1.10"
+Powered by osCommerce
+inurl:choosecard.php?catid=
+inurl:"com_jphoto"
+allinurl: e107_plugins/easyshop/easyshop.php
+inurl:"com_koesubmit"
+inurl:add_soft.php
+"Powered by Absolute Podcast"
+"Copyright-2008@zeejobsite.com"
+inurl:"index.php?option=com_jp_jobs"
+http://www.google.com/search?source=ig&hl=fr&rlz=&q=allinurl:+Category.php%3FIndustrYID%3D
+index2.php?option=com_joomlaboard
+inurl:"cameralife/index.php"
+inurl:option=com_huruhelpdesk
+inurl:inc_membersareamanager.asp
+"Tanyakan Pada Rumput Yang Bergoyang"
+inurl:/component/jesectionfinder/
+intitle:phpMyAdmin
+inurl:"com_phocagallery"
+inurl:"member.php?page=comments"
+''webboard question.asp QID''
+inurl:"index.php?option=com_ponygallery"
+"PowerMovieList 0.14 Beta Copyright"
+"powered by MODx"
+"Powered by words tag script"
+FrontAccounting
+Powered by Egorix
+inurl:"kgb19"
+allinurl:buyer/index.php?ProductID=
+"powered by Sitellite"
+"Powered by Comdev News Publisher"
+Powered By: AJ Square Inc
+inurl:option=com_huruhelpdesk
+inurl:inc_securedocumentlibrary.asp
+Powered by Dolphin
+inurl:"php/showContent.php?linkid="
+sitou timou tumou tou
+inurl:index.php?option=com_lowcosthotels
+Vibro-School CMS by nicLOR.net
+"Absolute Poll Manager XE"
+Copyright 2010. Software Index
+inurl:"com_linkdirectory"
+inurl:com_manager
+"Developed by Infoware Solutions"
+allinurl:"verliadmin"
+"Powered by UNAK-CMS"
+inurl:"com_quickfaq"
+"Powered by EZCMS"
+inurl:index.php?menu=adorder
+allinurl:"com_accombo"
+"Powered by Scratcher"
+"Powered by How2asp"
+"Powered by PHPBasket"
+"Powered by Dayfox Designs"
+"PHPNews Version 0.93"
+"/nuke/iframe.php"
+Sad Raven's Click Counter v1.0
+Powered by dB Masters' Curium CMS 1
+Powered by XT-Commerce
+"Yogurt build"
+inurl:e107_plugins
+"Scientific Image DataBase"
+Powered by phpMyRealty
+"Powered by myUPB"
+inurl:"com_simpledownload"
+Powered by Flinx
+allinurl:"com_restaurante"
+Powered by MyHobbySite 1.01
+inurl:index.php?myPlantId=
+"powered by real-estate-website"
+"This site is powered by CMS Made Simple version 1.2.2"
+infusions/manuals/manuals.php?manual=
+allinurl:/modernbill/
+Powered by EasySiteNetwork
+inurl:"main_forum.php?cat="
+"eCommerce Engine © 2006 xt:Commerce Shopsoftware"
+intitle:"Powered by Open Bulletin Board"
+"My Photo v1.46.4 Â© Big Resources"
+Powered by Fantastic News v2.1.4
+Platform Dokeos 1.8.4 Â© 2007
+"Powered by iScripts SocialWare"
+Powered By eLitius 1.0
+inurl:"com_artlinks"
+inurl:com_djclassifieds
+inurl:ratelink.php?lnkid=
+Powered by: deonixscripts.com
+inurl:com_ybggal
+Powered By Power Editor
+"Powered by: eSmile"
+"advanced_search_results.php?gender="
+allinurl:"com_ahsshop"do=default
+inurl:com_ice "catid"
+Powered by ExoPHPDesk v1.2 Final.
+allinurl:spaw2/dialogs/
+Powered by eLitius Version 1.0
+site:scartserver.com
+"realizacja eCreo.eu"
+inurl:index.php?option=com_akobook
+inurl:"/CMS/page.php?p="
+Powered by CMScout (c)2005 CMScout Group
+intext:"© Tainos Webdesign"
+inurl:"com_virtuemart"
+"Powered by RW::Download v2.0.3 lite"
+index.php?option=com_swmenupro
+"Powered By OpenCart"
+Powered by eclime.com
+inurl:"article.download.php"
+inurl:"com_mojo"
+inurl:"article.download.php"
+"Powered by LightBlog" - Powered by LightBlog
+"Powered by photokorn"
+"Powered by MetInfo 3.0"
+pages.php?id= "Multi Vendor Mall"
+Powered by Zylone IT
+Powered by MetInfo 3.0
+Powered by Info Fisier.
+"Powered by WebText"
+Webdevelopment Tinx-IT
+"PHPGlossar Version 0.8"
+com_ijoomla_rss
+inurl:"?pilih=forum"
+Powered by Guruscript.com
+allinurl:"index.php?mod=archives"
+"index.php?option=com_qcontacts"
+© Powered by sijio - Community Software
+Powered by TextAds 2.08
+inurl:/com_chronocontact
+inurl:"com_kochsuite"
+inurl:option=articles artid
+inurl:"com_jembed"
+"powered by Gradman"
+inurl:com_bfsurvey_profree
+inurl:option=com_cinema
+inurl:com_jejob
+inurl:prog.php?dwkodu=
+"Designed and powered by AWS Sports"
+inurl:com_eportfolio
+intext:"Parlic Design" inurl:id
+[ Powered by SkaDate dating ]
+inurl:com_jotloader
+inurl:/wp-content/plugins/fgallery/
+© 2010 Powered by Subrion CMS
+Powered by Guruscript.com
+"powered by jshop"
+"Powered by TS Special Edition"
+inurl:/jobsearchengine/
+inurl:"com_jgen"
+inurl:com_n-forms
+"powered by gelato cms"
+inurl:"cont_form.php?cf_id="
+allinurl:links.php?t=search
+inurl:"com_dateconverter"
+inurl:"com_simplefaq"
+inurl:com_jb2
+inurl:"com_dms"
+"powered by: profitCode"
+Powered by UGiA PHP UPLOADER V0.2
+Powered by iBoutique v4.0
+"index.php?option=com_expose"
+inurl:yvcomment
+"kims Q - Administrator Login Mode"
+inurl:"com_hestar"
+"Powered by NovaBoard v1.0.0"
+inurl:es_offer.php?files_dir=
+inurl:index.php?option=com_joomlaconnect_be
+"Powered by TinyPHPForum v3.61"
+intitle:"CCMS v3.1 Demo PW"
+"powered by mcGalleryPRO"
+Powered by Dayfox Designs This is a port of WordPress
+"Powered By EgyPlus"
+inurl:com_seminar
+allintext:"Powered By Buddy Zone"
+inurl:index.php?option=com_ice
+Powered by LiteCommerce
+"Web Group Communication Center"
+inurl:com_xewebtv
+inurl:index.php?option=com_paxgallery
+Powered by iScripts SocialWare
+"(C) This site is NITROpowered!"
+"phpQuestionnaire v3"
+"generated by Exhibit Engine 1.5 RC 4"
+powered by connectix boards
+inurl:com_ezstore
+"FrontAccounting"
+inurl:"option=com_elite_experts"
+inurl:"com_tupinambis"
+"Powered by AMCMS3"
+"Web Site Design by Red Cat Studios"
+allinurl:"com_cinema"
+"Powered by Clipshare"
+"Powered by PHPizabi v0.848b C1 HFP1"
+inurl:com_jejob
+inurl:"com_jpodium"
+intext:"Powered by: Virtual War v1.5.0"
+inurl:index.php/option?com_flexicontent
+inurl:option=com_agenda
+inurl:"index.php?css=mid=art="
+"Powered By Webcards"
+Powered by Bug Software intext:Your Cart Contains
+Winn ASP Guestbook from Winn.ws
+inurl:option=com_n-forms form_id
+intext:"English for dummies"
+inurl:"com_lyftenbloggie" / "Powered by LyftenBloggie"
+"Powered by GGCMS"
+inurl:index.php?menu=showcat
+Powered by minb
+"Powered by phpCC Beta 4.2"
+inurl:index.php?menu=showcat=
+intext:elkagroup Image Gallery v1.0
+"powered by AMCMS3"
+inurl:"e107_plugins/my_gallery"
+"Powered by BIGACE 2.4"
+"Powered by www.aspportal.net"
+inurl:"com_ijoomla_archive"
+"Power by Blakord Portal"
+inurl:option=com_mv_restaurantmenumanager
+inurl:"com_ajaxchat"
+Powered by: AIH v2.3
+inurl:/macgurublog_menu/
+inurl:"?page=duyurular_detay&id="
+"X-CART. Powerful PHP shopping cart software"
+allinurl:offers.php?id=
+"Powered By HASHE"
+inurl:we_objectID=
+"2009 Jorp"
+Powered by Orbis CMS
+inurl:"index.php?edicion_id="
+inurl:"CIHUY"
+"/subcat.php?cate_id="
+Powered by Marinet
+allinurl:clientsignup.php "classifieds"
+Powered by TeamCal Pro
+"mumbo jumbo media" + inurl:"index.php"
+intext:"pLink 2.07"
+"Powered by Scripteen Free Image Hosting Script V1.2"
+allinurl:casting_view.php?adnum=
+inurl:/jobsearchengine/
+VevoCart Control System
+inurl:"com_digifolio"
+"index.php?option=com_resman"
+allinurl:offers_buy.php?id=
+inurl:/jobsearchengine/
+"index.php?option=com_rwcards"
+inurl:/jobsearchengine/
+intext:"Powered by Atomic Photo Album 1.1.0pre4"
+inurl:"com_fastball"
+Lebi soft Ziyaretci Defteri_v7.5
+allinurl:offers_buy.php?id=
+[ Powered by: RadBids Gold v4 ]
+"/subcat.php?cate_id="
+"Desenvolvido por: Fio Mental"
+"Powered by ProjectCMS"
+Powered by DorsaCms
+powered by QT-cute v1.2
+© 1998 - 2010 Video Battle Script
+inurl:"com_facebook"
+inurl:/modules/kshop/
+"Jinzora Media Jukebox"
+inurl:/modules/tinyevent/
+Powered by: AIH v2.1
+inurl:"/modules/jobs/"
+Uploader des fichiers
+[ Powered By x10media.com ]
+inurl:/modules/camportail/
+Copyright © 2007 by Horst-D. Kröller · CMS: php WCMS
+inurl:"com_booklibrary"
+inurl:"/modules/myads/"
+"Ladder Scripts by http://www.mygamingladder.com"
+Powered By PHPDug version 2.0.0
+allinurl:show_memorial.php?id=
+intext:Powered by Mobilelib Gold v3
+"php-addressbook"
+inurl:"com_jsjobs"
+inurl:com_iproperty
+index.php?option=com_altas
+inurl:"index.php?module=pnFlashGames"
+Design by Satcom Co
+intitle:"ppc engine admin login form"
+"powered by Albinator"
+inurl:"/modules/library/"
+inurl:"/modules/repository/"
+index.php?option=com_vr
+"BioScripts"
+powered by vBulletin 3.8.6
+Powered by 2532|Gigs v1.2.2
+"Powered by bp blog 6.0"
+inurl:"com_soundset"
+inurl:"/modules/zmagazine/"
+Powered by iScripts eSwap.
+"Powered by Online Grades"
+inurl:/modules/wflinks
+inurl:"/modules/myconference/"
+inurl:"com_gameserver"
+inurl:com_annonces
+inurl:"fclick.php?fid"
+"powered by DreamAccount 3.1"
+allinurl:"article.download.php"
+inurl:com_jp_jobs
+"Cms.tut.su, 2009 g."
+"Powered By Aqua Cms"
+inurl:"com_jbudgetsmagic"
+inurl:"com_soundset"
+Powered by MyPHP Forum v3.0
+"Powered by CMS.GE"
+"Site powered by GuppY"
+inurl:"com_surveymanager"
+Powered by PHP F1 (Max's Image Uploader)
+inurl:"?option=com_bsadv"
+"Powered by PHP Live! v3.3"
+insite: SmarterMail Enterprise 7.1
+"Powered by Online Grades"
+"Copyright KerviNet"
+allinurl:option=com_rsmonials
+"Powered by F3Site"
+"Powered by ProjectCMS"
+"Powered by PunBB"
+"Developed by rbk"
+Powered by Elvin Bug Tracking Server.
+Powered By PHPFanBase
+"Powered by wpQuiz"
+inurl:"com_ezine"
+"Powered by ClanTiger"
+"Power by:RichStrong CMS"
+powered:powered by CMS
+"Powered by Grayscale Blog"
+Powered by UCenter 1.5.0 © 2001 - 2008 Comsenz Inc.
+inurl:roschedule.php
+"PHP Project Management 0.8.10"
+inurl:com_seyret
+"download this free gallery at matteobinda.com"
+Nwahy.com 2.1 , inurl:'add-site.html'
+inurl:index.php?option=com_jombib
+"nukeai beta3"
+"Powered by UPB"
+intitle:"owl intranet * owl" 0.82
+Copyright 2006-2009 Insane Visions
+"powered by JAMM"
+inurl:"printable_pedigree.php"
+intext:"Powered by Lore 1.5.6"
+"powered by jmdcms.com"
+"Driven by DokuWiki"
+intext:"Powered by Pc4Uploader v9.0"
+"copyright 2006 Broadband Mechanics"
+"powered by shutter v0.1.1"
+"Powered by PHP Director 0.2"
+intitle:phpinfo intext:"php version" +windows
+"S-CMS by matteoiamma"
+inurl:"modules/articles/index.php?cat_id="
+"by Pivot - 1.40.5" +'Dreadwind' -pivotlog.net
+"PHP Easy Downloader"
+"Powered by LoudBlog"
+"Powered by visinia"
+"Splatt Forum©"
+"Powered by Seditio"
+aspWebLinks 2.0
+inurl:/webquest/soporte_derecha_w.php?
+intext:"Powered by pppblog"
+inurl:"printable_pedigree.php"
+"Powered by Leap"
+"BioScripts"
+inurl:sysinfo.cgi ext:cgi
+"Powered by Burning Board" -exploit -johnny
+"Welcome to Exponent CMS" | "my new exponent site"
+"Powered by PMOS Help Desk"
+Powered.by.RaidenHTTPD +intitle:index.of | inurl:raidenhttpd-admin
+Site powered By Limbo CMS
+inurl:naviid + inurl:liste9
+"POWERED BY PHPNUKE.IR"
+inurl:"com_gcalendar"
+Powered by WikyBlog
+"powered by yourtube"
+FhImage, powered by Flash-here.com
+"Powered by: Arab Portal v2"
+"Powered by PHP iCalendar"
+POWERED BY ALITALK
+Copyright 2010. Software Index
+"Powered by MDForum"
+"Powered by mojoPortal"
+intitle:"login to cacti"
+"BioScripts"
+"Powered by PHP Advanced Transfer Manager v1.30"
+Small Business Manager
+"Powered by webSPELL"
+"Powered by IMGallery"
+intext:"Powered by Plogger!" -plogger.org
+"Powered by FreeWebshop.org 2.2.1"
+"powered by XHP CMS"
+Portal By vbPortal Version 3.5.0
+"Copyright @2007 Iatek LLC"
+"& Spider Friendly by Crack"
+intitle:"login to cacti"
+Welcome to your PHPOpenChat-Installation!
+"powered by TSEP - The Search Engine Project"
+WEBalbum 2004-2006 duda
+"Powered by Zomplog"
+intext:"Powered by simplog"
+"Powered by SMF"
+inurl:php-stats.js.php
+"Powered by MercuryBoard"
+"Powered by Drake CMS" inurl:index.php?option=guestbook
+"Driven by DokuWiki"
+"powered by php update"
+Realizzato utilizzando Web Portal
+"powered by ILIAS"
+"This site is powered by CMS Made Simple"
+"by eXtreme Crew"
+"2007 Rafal Kucharski"
+"This forum powered by Phorum."
+"is proudly powered by WordPress"
+"Powered by Burning Board Lite 1.0.2 * 2001-2004"
+FhImage, powered by Flash-here.com
+"powered by blur6ex"
+"Powered by Claroline" -demo
+"Powered by Burning Board Lite 1.0.2 * 2001-2004"
+"Personal .NET Portal"
+"SmodBIP" & "Aktualno.ci"
+"SmodCMS" & "S.ownik"
+"is a product of Lussumo"
+inurl:"index.php?name=PNphpBB2"
+"Powered by Online Grades"
+"Powered by ClanTiger"
+inurl:/modules/lykos_reviews/
+"Powered By X7 Chat"
+"powered by guestbook script"
+index.php?option=com_ezine
+inurl:/modules/xfsection/
+inurl:"phpwcms/index.php?id="
+"Copyright Devellion Limited 2005. All rights reserved."
+inurl:/modules/debaser/
+"Powered by Quick.Cms"
+inurl:/modules/rmgallery/
+intext:"2000-2001 The phpHeaven Team"
+"Basado en Spirate"
+"Barbecued by sNews"
+inurl:"printable_pedigree.php"
+"powered by discuz!
+"This web site was made with PostNuke"
+"Powered by Shop-Script FREE"
+"LinPHA Version 1.3.x" or "The LinPHA developers"
+"powered by Quick.Cart"
+"Powered by PHP-Update" -site:www.php-update.co.uk
+intext:"2000-2001 The phpHeaven Team" -sourceforge
+"Powered by MercuryBoard"
+"Powered by Coppermine Photo Gallery"
+"Content managed by the Etomite Content Management System"
+"powered by PCPIN.com"
+"Powered by Leap"
+inurl:"option=com_tophotelmodule"
+"Runcms Copyright" "2002 - 2007" +"page created"
+"Powered by eXV2 Vers"
+"Betrieben mit Serendipity 1.0.3"
+"Powered by XMB"
+"Powered by BIGACE 2.5"
+allintitle: powered by DeluxeBB
+"Powered by Online Grades"
+"Powered by ClanTiger"
+"AlumniServer project"
+"& Spider Friendly by Crack"
+intitle:"login to cacti"
+Welcome to your PHPOpenChat-Installation!
+"powered by TSEP - The Search Engine Project"
+WEBalbum 2004-2006 duda
+"Powered by Zomplog"
+intext:"Powered by simplog"
+"Powered by SMF"
+inurl:php-stats.js.php
+"Powered by MercuryBoard"
+"Powered by Drake CMS" inurl:index.php?option=guestbook
+"Driven by DokuWiki"
+"powered by php update"
+Realizzato utilizzando Web Portal
+"powered by ILIAS"
+"This site is powered by CMS Made Simple"
+"by eXtreme Crew"
+"2007 Rafal Kucharski"
+"This forum powered by Phorum."
+"is proudly powered by WordPress"
+"Powered by Burning Board Lite 1.0.2 * 2001-2004"
+FhImage, powered by Flash-here.com
+"powered by blur6ex"
+"Powered by Claroline" -demo
+"Powered by Burning Board Lite 1.0.2 * 2001-2004"
+"Personal .NET Portal"
+"SmodBIP" & "Aktualno.ci"
+"SmodCMS" & "S.ownik"
+"is a product of Lussumo"
+inurl:"index.php?name=PNphpBB2"
+"Powered by Online Grades"
+"Powered by ClanTiger"
+inurl:/modules/lykos_reviews/
+"Powered By X7 Chat"
+"powered by guestbook script"
+index.php?option=com_ezine
+inurl:/modules/xfsection/
+inurl:"phpwcms/index.php?id="
+"Copyright Devellion Limited 2005. All rights reserved."
+inurl:/modules/debaser/
+"Powered by Quick.Cms"
+inurl:/modules/rmgallery/
+intext:"2000-2001 The phpHeaven Team"
+"Basado en Spirate"
+"Barbecued by sNews"
+inurl:"printable_pedigree.php"
+"powered by discuz!
+"This web site was made with PostNuke"
+"Powered by Shop-Script FREE"
+"LinPHA Version 1.3.x" or "The LinPHA developers"
+"powered by Quick.Cart"
+"Powered by PHP-Update" -site:www.php-update.co.uk
+intext:"2000-2001 The phpHeaven Team" -sourceforge
+"Powered by MercuryBoard"
+"Powered by Coppermine Photo Gallery"
+"Content managed by the Etomite Content Management System"
+"powered by PCPIN.com"
+"Powered by Leap"
+inurl:"option=com_tophotelmodule"
+"Runcms Copyright" "2002 - 2007" +"page created"
+"Powered by eXV2 Vers"
+"Betrieben mit Serendipity 1.0.3"
+"Powered by XMB"
+"Powered by BIGACE 2.5"
+allintitle: powered by DeluxeBB
+"Powered by Online Grades"
+"Powered by ClanTiger"
+"AlumniServer project"
+inurl:imageview5
+"This site is powered by e107"
+"powered by tikiwiki"
+"powered by gcards"
+pixelpost "RSS 2.0" "ATOM feed" "Valid xHTML / Valid CSS"
+"This web site was made with MD-Pro"
+http://www.google.com/search?q="Powered+by+XMB"
+"powered by ThWboard"
+"Page created in" "seconds by glFusion" +RSS
+inurl:wp-login.php Register Username Password -echo
+"this site is using the webspell script (version: 4.01.02)"
+inurl:"com_sqlreport"
+"Powered by Quick.Cart"
+"Powered by Shadowed Portal"
+"powered by bitweaver"
+inurl:"index.php?ind=blog"
+inurl:"sbw2Behoerden.php"
+"Powered by Vsns Lemon" intitle:"Vsns Lemon"
+"Powered by sendcard - an advanced PHP e-card program" -site:sendcard.org
+"powered by xmb"
+"powered by minibb forum software"
+inurl:eStore/index.cgi?
+"powered by ubbthreads"
+"powered by pppblog v 0.3.(.)"
+Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top -demo -"deadly eyes"
+"Powered by PHP-Fusion v6.00.110" | "Powered by PHP-Fusion v6.00.2.." | "Powered by PHP-Fusion v6.00.3.." -v6.00.400 -johnny.ihackstuff
+intitle:"XOOPS Site" intitle:"Just Use it!" | "powered by xoops (2.0)|(2.0.....)"
+inurl:wp-login.php +Register Username Password "remember me" -echo -trac -footwear
+allinurl:tseekdir.cgi
+intitle:"X7 Chat Help Center" | "Powered By X7 Chat" -milw0rm -exploit
+intext:"This site is using phpGraphy" | intitle:"my phpgraphy site"
+intext:"Powered by PCPIN.com" -site:pcpin.com -ihackstuff -"works with" -findlaw
+inurl:database.php | inurl:info_db.php ext:php "Database V2.*" "Burning Board *"
+"You have not provided a survey identification num
+"This script was created by Php-ZeroNet" "Script . Php-ZeroNet"
+intitle:"HelpDesk" "If you need additional help, please email helpdesk at"
+"powered by active php bookmarks" | inurl:bookmarks/view_group.php?id=
+inurl:resetcore.php ext:php
+"powered by sphider" -exploit -ihackstuff -www.cs.ioc.ee
+inurl:"extras/update.php" intext:mysql.php -display
+inurl:sysinfo.cgi ext:cgi
+inurl:perldiver.cgi ext:cgi
+inurl:tmssql.php ext:php mssql pear adodb -cvs -akbk
+"powered by php photo album" | inurl:"main.php?cmd=album" -demo2 -pitanje
+intext:"2000-2001 The phpHeaven Team" -sourceforge
+"powered by phplist" | inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe" -ubbi -bugs +phplist -tincan.co.uk
+inurl:server.php ext:php intext:"No SQL" -Released
+intitle:PHPOpenChat inurl:"index.php?language="
+intext:"2000-2001 The phpHeaven Team" -sourceforge
+"2004-2005 ReloadCMS Team."
+"powered by claroline" -demo
+"PhpCollab . Log In" | "NetOffice . Log In" | (intitle:"index.of." intitle:phpcollab|netoffice inurl:phpcollab|netoffice -gentoo)
+intext:"Powered by Plogger!" -plogger.org -ihackstuff -exploit
+intext:"powered by gcards" -ihackstuff -exploit
+"Powered by XHP CMS" -ihackstuff -exploit -xhp.targetit.ro
+"powered by php icalendar" -ihackstuff -exploit
+"powered by guestbook script" -ihackstuff -exploit
+WEBalbum 2004-2006 duda -ihackstuff -exploit
+inurl:*.exe ext:exe inurl:/*cgi*/
+"Thank You for using WPCeasy"
+"powered by sblog" +"version 0.7"
+"Powered by Simplog"
+"powered by 4images"
+("powered by nocc" intitle:"NOCC Webmail") -site:sourceforge.net -Zoekinalles.nl -analysis
+intitle:"igenus webmail login"
+intext:"Powered By Geeklog" -geeklog.net
+intitle:admbook intitle:version filetype:php
+intitle:"4images - Image Gallery Management System" and intext:"Powered by 4images 1.7.1"
+("This DragonflyÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ installation was" | "Thanks for downloading Dragonfly") -inurl:demo -inurl:cpgnuke.com
+inurl:docmgr | intitle:"DocMGR" "enter your Username and"|"und Passwort bitte"|"saisir votre nom"|"su nombre de usuario" -ext:pdf -inurl:"download.php
+(intitle:"Flyspray setup"|"powered by flyspray 0.9.7") -flyspray.rocks.cc
+intext:"LinPHA Version" intext:"Have fun"
+(intitle:"metaframe XP Login")|(intitle:"metaframe Presentation server Login")
+"powered by runcms" -runcms.com -runcms.org
+"index of" intext:fckeditor inurl:fckeditor
+"Powered by Loudblog"
+intitle:"b2evo installer" intext:"Installer fÃƒÆ’Ã‚Â¼r Version"
+"This website engine code is copyright" "2005 by Clever Copy" -inurl:demo
+inurl:install.pl intitle:GTchat
+intext:"PhpGedView Version" intext:"final - index" -inurl:demo
+intext:"Powered by DEV web management system" -dev-wms.sourceforge.net -demo
+intitle:"phpDocumentor web interface"
+intext:"Powered by CubeCart 3.0.6" intitle:"Powered by CubeCart"
+"Site powered By Limbo CMS"
+intext:"Powered by SimpleBBS v1.1"*
+"Powered By phpCOIN 1.2.2"
+"2005 SugarCRM Inc. All Rights Reserved" "Powered By SugarCRM"
+"Based on DoceboLMS 2.0"
+"This website powered by PHPX" -demo
+"Powered by Xaraya" "Copyright 2005"
+"powered by GuppY v4"|"Site crÃƒÆ’Ã‚Â©ÃƒÆ’Ã‚Â© avec GuppY v4"
+("Skin Design by Amie of Intense")|("Fanfiction Categories" "Featured Stories")|("default2, 3column, Romance, eFiction")
+"Powered by UPB" (b 1.0)|(1.0 final)|(Public Beta 1.0b)
+"Copyright 2000 - 2005 Miro International Pty Ltd. All rights reserved" "Mambo is Free Software released"
+"This website was created with phpWebThings 1.4"
+inurl:course/category.php | inurl:course/info.php | inurl:iplookup/ipatlas/plot.php
+"Powered by XOOPS 2.2.3 Final"
+inurl:"wfdownloads/viewcat.php?list="
+"Welcome to the versatileBulletinBoard" | "Powered by versatileBulletinBoard"
+"Cyphor (Release:" -www.cynox.ch
+"News generated by Utopia News Pro" | "Powered By: Utopia News Pro"
+intitle:Mantis "Welcome to the bugtracker" "0.15 | 0.16 | 0.17 | 0.18"
+"Powered By: lucidCMS 1.0.11"
+Powered by PHP-Fusion v6.00.109 Ãƒâ€šÃ‚Â© 2003-2005. -php-fusion.co.uk
+"CosmoShop by Zaunz Publishing" inurl:"cgi-bin/cosmoshop/lshop.cgi" -johnny.ihackstuff.com -V8.10.106 -V8.10.100 -V.8.10.85 -V8.10.108 -V8.11*
+"Powered by Woltlab Burning Board" -"2.3.3" -"v2.3.3" -"v2.3.2" -"2.3.2"
+"Maintained with Subscribe Me 2.044.09p"+"Professional" inurl:"s.pl"
+"Powered by autolinks pro 2.1" inurl:register.php
+intitle:"PHP TopSites FREE Remote Admin"
+"Powered by GTChat 0.95"+"User Login"+"Remember my login information"
+intitle:"WEB//NEWS Personal Newsmanagement" intext:"Ãƒâ€šÃ‚Â© 2002-2004 by Christian Scheb - Stylemotion.de"+"Version 1.4 "+"Login"
+"Mimicboard2 086"+"2000 Nobutaka Makino"+"password"+"message" inurl:page=1
+intitle:"Looking Glass v20040427" "When verifying
+"Powered by PHP Advanced Transfer Manager v1.30"
+"Powered by CuteNews"
+"Copyright 2004 Ãƒâ€šÃ‚Â© Digital Scribe v.1.4"
+intitle:guestbook inurl:guestbook "powered by Advanced guestbook 2.*" "Sign the Guestbook"
+"powered by Gallery v" "[slideshow]"|"images" inurl:gallery
+"Powered by AzDg" (2.1.3 | 2.1.2 | 2.1.1)
+"Powered by: Land Down Under 800" | "Powered by: Land Down Under 801" - www.neocrome.net
+"Powered by and copyright class-1" 0.24.4
+"Software PBLang" 4.65 filetype:php
+"Calendar programming by AppIdeas.com" filetype:php
+"Powered by MD-Pro" | "made with MD-Pro"
+inurl:chitchat.php "choose graphic"
+"Powered by FUDForum 2.6" -site:fudforum.org -johnny.ihackstuff
+intitle:guestbook inurl:guestbook "powered by Adva
+"Powered by FUDForum 2.7" -site:fudforum.org -johnny.ihackstuff
+phpLDAPadmin intitle:phpLDAPadmin filetype:php inurl:tree.php | inurl:login.php | inurl:donate.php (0.9.6 | 0.9.7)
+"powered by ITWorking"
+"Powered by Zorum 3.5"
+inurl:index.php fees shop link.codes merchantAccount
+intitle:"blog torrent upload"
+"powered by PhpBB 2.0.15" -site:phpbb.com
+inurl:"/login.asp?folder=" "Powered by: i-Gallery 3.3"
+intext:"Calendar Program Ãƒâ€šÃ‚Â© Copyright 1999 Matt Kruse" "Add an event"
+intext:"Powered By: Snitz Forums 2000 Version 3.4.00..03"
+intext:"Powered by flatnuke-2.5.3" +"Get RSS News" -demo
++intext:"powered by MyBulletinBoard"
+intitle:"PowerDownload" ("PowerDownload v3.0.2 Ãƒâ€šÃ‚Â©" | "PowerDownload v3.0.3 Ãƒâ€šÃ‚Â©" ) -site:powerscripts.org
+"portailphp v1.3" inurl:"index.php?affiche" inurl:"PortailPHP" -site:safari-msi.com
+inurl:sphpblog intext:"Powered by Simple PHP Blog 0.4.0"
+intitle:"osTicket :: Support Ticket System"
+intitle:"myBloggie 2.1.1..2 - by myWebland"
+powered.by.instaBoard.version.1.3
+intext:"Powered by phpBB 2.0.13" inurl:"cal_view_month.php"|inurl:"downloads.php"
+"Powered by Coppermine Photo Gallery" ( "v1.2.2 b" | "v1.2.1" | "v1.2" | "v1.1" | "v1.0")
+Powered.by:.vBulletin.Version ...3.0.6
+filetype:php intitle:"paNews v2.0b4"
+allintitle:aspjar.com guestbook
+"delete entries" inurl:admin/delete.asp
+"powered by CubeCart 2.0"
+"Powered by MercuryBoard [v1"
+"IceWarp Web Mail 5.3.0" "Powered by IceWarp"
+"SquirrelMail version 1.4.4" inurl:src ext:php
+intext:Generated.by.phpix.1.0? inurl:$mode=album
+inurl:citrix/metaframexp/default/login.asp? ClientDetection=On
+"Powered by WordPress" -html filetype:php -demo -wordpress.org -bugtraq
+ext:php intext:"Powered by phpNewMan Version"
+Powered by Invision Power Board v2.0.0..2
++"Powered by phpBB 2.0.6..10" -phpbb.com -phpbb.pl
+intitle:"View Img" inurl:viewimg.php
+inurl:"/cgi-bin/loadpage.cgi?user_id="
+"powered by minibb" -site:www.minibb.net -intext:1.7f
+intext:("UBB.threadsÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6.2"|"UBB.threadsÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6.3") intext:"You * not logged *" -site:ubbcentral.com
+inurl:/SiteChassisManager/
+"Obtenez votre forum Aztek" -site:forum-aztek.com
+inurl:directorypro.cgi
+inurl:cal_make.pl
+"Powered by PowerPortal v1.3"
+inurl:technote inurl:main.cgi*filename=*
+"running: Nucleus v3.1" -.nucleuscms.org -demo
+"driven by: ASP Message Board"
+inurl:"forumdisplay.php" +"Powered by: vBulletin Version 3.0.0..4"
+intitle:welcome.to.horde
+"BlackBoard 1.5.1-f | Ãƒâ€šÃ‚Â© 2003-4 by Yves Goergen"
+filetype:cgi inurl:nbmember.cgi
+"Powered by Coppermine Photo Gallery"
+"Powered by WowBB" -site:wowbb.com
+"Powered by ocPortal" -demo -ocportal.com
+inurl:"slxweb.dll"
+"Powered by DMXReady Site Chassis Manager" -site:dmxready.com
+"Powered by My Blog" intext:"FuzzyMonkey.org"
+inurl:wiki/MediaWiki
+"inurl:/site/articles.asp?idcategory="
+"Enter ip" inurl:"php-ping.php"
+inurl:"/site/articles.asp?idcategory="
+"Powered by YaPig V0.92b"
+"Ideal BB Version: 0.1" -idealbb.com
+inurl:ttt-webmaster.php
+"Copyright Ãƒâ€šÃ‚Â© 2002 Agustin Dondo Scripts"
+"Powered by CubeCart"
+"2003 DUware All Rights Reserved"
+"This page has been automatically generated by Plesk Server Administrator"
+"1999-2004 FuseTalk Inc" -site:fusetalk.com
+inurl:"messageboard/Forum.asp?"
+intitle:"EMUMAIL - Login" "Powered by EMU Webmail"
+intitle:"WebJeff - FileManager" intext:"login" intext:Pass|PAsse
+"Powered by FUDforum"
+"BosDates Calendar System " "powered by BosDates v3.2 by BosDev"
+"Powered by A-CART"
+"Online Store - Powered by ProductCart"
+"Powered by yappa-ng"
+"Active Webcam Page" inurl:8080
+intitle:"WordPress > * > Login form" inurl:"wp-login.php"
+inurl:"comment.php?serendipity"
+"Powered by AJ-Fork v.167"
+"Powered by Megabook *" inurl:guestbook.cgi
+inurl:com_remository
+intitle:"MRTG/RRD" 1.1* (inurl:mrtg.cgi | inurl:14all.cgi |traffic.cgi)
+filetype:php inurl:index.php inurl:"module=subjects" inurl:"func=*" (listpages| viewpage | listcat)
+filetype:cgi inurl:pdesk.cgi
+"Powered by IceWarp Software" inurl:mail
+"Powered by DCP-Portal v5.5"
+"FC Bigfeet" -inurl:mail
+filetype:cgi inurl:tseekdir.cgi
+"Powered *: newtelligence" ("dasBlog 1.6"| "dasBlog 1.5"| "dasBlog 1.4"|"dasBlog 1.3")
+inurl:"/becommunity/community/index.php?pageurl="
+"Powered by Ikonboard 3.1.1"
+inurl:/cgi-bin/index.cgi inurl:topics inurl:viewca
+"Powered by Gallery v1.4.4"
+inurl:"dispatch.php?atknodetype" | inurl:class.at
+inurl:comersus_message.asp
+ext:pl inurl:cgi intitle:"FormMail *" -"*Referrer" -"* Denied" -sourceforge -error -cvs -input
+"powered by antiboard"
+inurl:gotoURL.asp?url=
+"Powered by Invision Power Board(U) v1.3 Final"
+"Powered by: vBulletin * 3.0.1" inurl:newreply.php
+filetype:asp inurl:"shopdisplayproducts.asp"
+intitle:guestbook "advanced guestbook 2.2 powered"
+inurl:custva.asp
+"Powered by mnoGoSearch - free web search engine software"
