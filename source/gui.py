@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import Jonna_Michine_Tool
 import time
+import random
 
 WIDTH = 700
 HEIGHT = 400
@@ -12,6 +13,22 @@ path = ""
 exploitCategory = ""
 
 query = []
+
+# read exploit file and setting query
+def readCategory(path):
+    global query
+
+    f = open(path, 'r')
+
+    while(True):
+        line = f.readline()
+        if(not(line)):
+            break
+        
+        line = line[:-1]
+        query.append(line)
+        
+    f.close()
 
 class MyWindow(QMainWindow):
     def __init__(self):
@@ -134,45 +151,29 @@ class SearchWidget(QWidget):
 
 
     def crawl_view(self):
-        global query
         # search_url = self.le.text()
-        search_url = "test"
+        search_url = "Google"
         
         if search_url:
             self.tb.clear()
             if(len(exploitCategory) != 0):
-                query = Jonna_Michine_Tool.readCategory(path)
+                readCategory(path)
+                # print(query)
                 
                 self.lbl.setText('Google Search Results for [' + search_url + '] URL')
                 self.tb.append("GHDB Category ····· " + exploitCategory + '\n')
-                # for i in range(2):
-                #     p, sync = Jonna_Michine_Tool.exploitGHDB(path, i)
-                #     time.sleep(1)
-                #     if(sync == 1):
-                #         self.tb.append("[Exploit] ····· " + p)
-                #     elif(sync == 0):
-                #         self.tb.append("[Fail] ····· " + p)
+                for i in range(len(query)):
+                    # p, sync = Jonna_Michine_Tool.exploitGHDB(path, i)
+                    # print('back')
+                    sync = random.randint(0,1)
+                    p = 'test'
+                    time.sleep(1)
+                    if(sync == 1):
+                        self.tb.append("[Exploit] ····· " + p)
+                    elif(sync == 0):
+                        self.tb.append("[Fail] ····· " + p)
 
-                p, sync = Jonna_Michine_Tool.exploitGHDB(path, 0)
-                time.sleep(1)
-                if(sync == 1):
-                    self.tb.append("[Exploit] ····· " + p)
-                elif(sync == 0):
-                    self.tb.append("[Fail] ····· " + p)
-
-                # p, sync = Jonna_Michine_Tool.exploitGHDB(path, 1)
-                # time.sleep(1)
-                # if(sync == 1):
-                #     self.tb.append("[Exploit] ····· " + p)
-                # elif(sync == 0):
-                #     self.tb.append("[Fail] ····· " + p)
                 
-                # p, sync = Jonna_Michine_Tool.exploitGHDB(path, 2)
-                # time.sleep(1)
-                # if(sync == 1):
-                #     self.tb.append("[Exploit] ····· " + p)
-                # elif(sync == 0):
-                #     self.tb.append("[Fail] ····· " + p)
 
                 self.tb.append("\n\n[Done]")
             else:
