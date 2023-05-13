@@ -29,20 +29,23 @@
 from urllib.parse import quote_plus
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from fake_useragent import UserAgent
-import undetected_chromedriver as uc
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import time
 import ssl
+import random
 ssl._create_default_https_context = ssl._create_unverified_context
 
+query = []
 
-def exploitGHDB(categoryPath):
-    
-    # f = open("/Users/seokcheon/OneDrive/College/2023-1/senior-project/JMT/File-Containing-Usernames.txt", 'r')
-    f = open(categoryPath, 'r')
-    result = open("/Users/seokcheon/OneDrive/College/2023-1/senior-project/JMT/result.md", "w")
-    query = []
+
+# read exploit file and setting query
+def readCategory(path):
+    global query
+
+    f = open(path, 'r')
 
     while(True):
         line = f.readline()
@@ -54,14 +57,27 @@ def exploitGHDB(categoryPath):
         
     f.close()
 
+
+
+def exploitGHDB(categoryPath, idx):
+    
+    # f = open("/Users/seokcheon/OneDrive/College/2023-1/senior-project/JMT/File-Containing-Usernames.txt", 'r')
+
+    readCategory(categoryPath)    
+    result = open("/Users/seokcheon/OneDrive/College/2023-1/senior-project/JMT-test/result.md", "a")
+
     baseUrl = 'https://www.google.com/search?q='
 
-for plusUrl in query :
+    # for plusUrl in query :
     
     # plusUrl = input('무엇을 검색할까요? :')
-    url = baseUrl + quote_plus(plusUrl)
+    url = baseUrl + quote_plus(query[idx])
     # 한글은 인터넷에서 바로 사용하는 방식이 아니라, quote_plus가 변환해줌
     # URL에 막 %CE%GD%EC 이런 거 만들어주는 친구
+
+    caps = DesiredCapabilities.SAFARI.copy()
+    caps["browserstack.safari.enablePopups"] = "true"
+    caps['safari.private'] = True
 
     driver = webdriver.Safari()
     driver.get(url)
@@ -71,22 +87,30 @@ for plusUrl in query :
 
     r = soup.select('.tF2Cxc')
 
-    result.write('# %s \n</br>' % plusUrl)
+    result.write('# %s \n</br>' % query[idx])
+
+    time.sleep(random.randint(1, 2))
 
     for i in r :
+
         try :  
-            print(i.select_one('.LC20lb.MBeuO.DKV0Md').text) #제목 #select one을 사용하면 텍스트를 가져올 수 있다. #클래스에 빈칸은 점으로 바꿔준다.
+            # print(i.select_one('.LC20lb.MBeuO.DKV0Md').text) #제목 #select one을 사용하면 텍스트를 가져올 수 있다. #클래스에 빈칸은 점으로 바꿔준다.
             result.write(i.select_one('.LC20lb.MBeuO.DKV0Md').text)
             result.write('</br>')
-            print(i.a.attrs['href'])
+            # print(i.a.attrs['href'])
             result.write(i.a.attrs['href'])
-            print()
+            # print()
             result.write('</br>\n</br>\n')
+            # driver.close() #크롬 드라이버 닫아주기
         except :
-            continue
+            # driver.close() #크롬 드라이버 닫아주기
+            return query[idx], 0
 
-    # time.sleep(random.randint(1, 5))
+        # time.sleep(random.randint(1, 5))
 
-    driver.close() #크롬 드라이버 닫아주기
+    result.close()
 
-result.close()
+    return query[idx], 1
+
+
+# exploitGHDB("/Users/seokcheon/OneDrive/College/2023-1/senior-project/JMT/File-Containing-Usernames.txt")
