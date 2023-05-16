@@ -15,102 +15,72 @@
 # pip3 install selenium
 # pip3 install beautifulsoup
 # pip3 install bs4
-# pip3 install fake_useragent
-# pip3 install undetected_chromedriver
-# pip3 install 2captcha-python 
 # pip3.8 install lxml
-
-# https://wikidocs.net/book/4614
-# 위 도서의 셀레늄을 이용하여 개발
-# from urllib.parse import quote_plus
-# from bs4 import BeautifulSoup
-# from selenium import webdriver
 
 from urllib.parse import quote_plus
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import time
 import ssl
 import random
+
+# Setting SSL
 ssl._create_default_https_context = ssl._create_unverified_context
 
-query = []
 
-
-# read exploit file and setting query
-def readCategory(path):
-    global query
-
-    f = open(path, 'r')
-
-    while(True):
-        line = f.readline()
-        if(not(line)):
-            break
-        
-        line = line[:-1]
-        query.append(line)
-        
-    f.close()
-
-
-
-def exploitGHDB(categoryPath, idx):
+def exploitGHDB(query, search_url):
     
-    # f = open("/Users/seokcheon/OneDrive/College/2023-1/senior-project/JMT/File-Containing-Usernames.txt", 'r')
+    # readCategory(categoryPath)
 
-    readCategory(categoryPath)    
-    result = open("/Users/seokcheon/OneDrive/College/2023-1/senior-project/JMT-test/result.md", "a")
+    # Save report md file
+    result = open("/Users/seokcheon/OneDrive/College/2023-1/graduation-work/JMT-test/result.md", "a")
 
+    # 한글을 대비해서 quote_plus() 함수를 사용
     baseUrl = 'https://www.google.com/search?q='
+    exploit_url = "site:" + search_url + " "
+    url = baseUrl + quote_plus(exploit_url) + quote_plus(query)
 
-    # for plusUrl in query :
-    
-    # plusUrl = input('무엇을 검색할까요? :')
-    url = baseUrl + quote_plus(query[idx])
-    # 한글은 인터넷에서 바로 사용하는 방식이 아니라, quote_plus가 변환해줌
-    # URL에 막 %CE%GD%EC 이런 거 만들어주는 친구
-
+    # Setting safari
     caps = DesiredCapabilities.SAFARI.copy()
     caps["browserstack.safari.enablePopups"] = "true"
     caps['safari.private'] = True
 
+    # Start web crawling
     driver = webdriver.Safari()
     driver.get(url)
 
+    # Read Web html file.
     html = driver.page_source
     soup = BeautifulSoup(html, 'html.parser')
 
-    r = soup.select('.tF2Cxc')
+    searchResult = soup.select('.tF2Cxc')           # Result of search
+    result.write('## %s \n</br>' % query)           # Write heading of report file
 
-    result.write('# %s \n</br>' % query[idx])
+    time.sleep(random.randint(1, 2))                # Avoid bot detection
 
-    time.sleep(random.randint(1, 2))
+    # print(url)  # Checking
 
-    for i in r :
-
+    for i in searchResult :
         try :  
-            # print(i.select_one('.LC20lb.MBeuO.DKV0Md').text) #제목 #select one을 사용하면 텍스트를 가져올 수 있다. #클래스에 빈칸은 점으로 바꿔준다.
+            # .LC20lb.MBeuO.DKV0Md is heading
+            print(i.select_one('.LC20lb.MBeuO.DKV0Md').text)            
             result.write(i.select_one('.LC20lb.MBeuO.DKV0Md').text)
             result.write('</br>')
-            # print(i.a.attrs['href'])
+            
+            # i.a.attrs['href'] is sub heading
+            print(i.a.attrs['href'])
             result.write(i.a.attrs['href'])
-            # print()
+            print()
             result.write('</br>\n</br>\n')
-            # driver.close() #크롬 드라이버 닫아주기
+
+            return "Exploit"
         except :
-            # driver.close() #크롬 드라이버 닫아주기
-            return query[idx], 0
+            
+            result.write('</br>\n</br>\n')
+            return "Fail"
 
-        # time.sleep(random.randint(1, 5))
+    result.write('</br>\n</br>\n')
+    result.close()  # file close
 
-    result.close()
-
-    return query[idx], 1
-
-
-# exploitGHDB("/Users/seokcheon/OneDrive/College/2023-1/senior-project/JMT/File-Containing-Usernames.txt")
+    return "Fail"

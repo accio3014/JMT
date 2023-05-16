@@ -1,22 +1,21 @@
 import sys
 from PyQt5.QtWidgets import *
-import requests
-from bs4 import BeautifulSoup
 import Jonna_Michine_Tool
 import time
 import random
 
+# Screen Size
 WIDTH = 700
 HEIGHT = 400
 
 path = ""
 exploitCategory = ""
 
-query = []
+querys = []
 
-# read exploit file and setting query
+# read exploit file and setting querys
 def readCategory(path):
-    global query
+    global querys
 
     f = open(path, 'r')
 
@@ -26,51 +25,39 @@ def readCategory(path):
             break
         
         line = line[:-1]
-        query.append(line)
+        querys.append(line)
         
     f.close()
 
+# Setting GUI
 class MyWindow(QMainWindow):
+
     def __init__(self):
         super().__init__()
         self.initUI()
 
+    # Setting screen
     def initUI(self):
-        # Create a new file
-        # newFile = QAction('&new', self)
-        # newFile.setShortcut('Ctrl+N')
-        # newFile.setStatusTip('New file')
-        # newFile.triggered.connect(self.newFile)
         
+        # Title
+        self.setWindowTitle('Web vulnerability check')
+        
+        # Setting status bar in menu bar
         selectFile = QAction('&select', self)
         selectFile.setShortcut('Ctrl+O')
         selectFile.setStatusTip('Select file')
         selectFile.triggered.connect(self.selectFile)
-        
-        # quitFile = QAction('&exit', self)
-        # quitFile.setShortcut('Ctrl+Q')
-        # quitFile.setStatusTip('Exit application')
-        # quitFile.triggered.connect(qApp.quit)
-        
-        # edit_m = menubar.addMenu('&Edit')
-        # view_m = menubar.addMenu('&View')
-        # tools_m = menubar.addMenu('&Tooles')
-        # help_m = menubar.addMenu('&Help')
-        
         self.statusBar()
         
+        # Setting menu bar
         menubar = self.menuBar()
         menubar.setNativeMenuBar(False)
         file_m = menubar.addMenu('&File')
-        
-        # file_m.addAction(newFile)
         file_m.addAction(selectFile)
-        # file_m.addAction(quitFile)
         
+        # Setting file select
         self.search_widget = SearchWidget()
         self.setCentralWidget(self.search_widget)
-        
-        self.setWindowTitle('Web vulnerability check')
 
         # Setting GUI place
         screen = app.desktop().screenGeometry()
@@ -78,18 +65,15 @@ class MyWindow(QMainWindow):
         self.setGeometry(int(width/2) - int(WIDTH/2), int(height/2) - int(HEIGHT/2), WIDTH, HEIGHT)
 
         self.show()
-        
-    
-    # def newFile(self):
-    #     nFile = QFileDialog.getSaveFileName(self, 'New file', './')
-        
+
+
+    # Select file
     def selectFile(self):
         global path, exploitCategory
 
         pathInfo = []
 
         # Select file and get path
-        # oFile = QFileDialog.getOpenFileName(self, 'Select file', './', 'TextFile(*.txt);; All File(*)')
         selectFile = QFileDialog.getOpenFileName(self, 'Select file', './', 'TextFile(*.txt)')
         path = selectFile[0]
         pathInfo = path.split('/')
@@ -101,17 +85,21 @@ class MyWindow(QMainWindow):
             else:
                 exploitCategory += i + " "
         
+        # Check file
         if(len(exploitCategory) != 0):
             self.showAlert("Success", "Successfully loading [" + exploitCategory + "." + fileName[-1] + "] file")
         else:
             self.showAlert("Fail", "Please select *.txt file")
 
 
-        # print(pathInfo)
-        # print(path)     # 선택한 파일 경로
+        
+        print(path)     # file path
 
+
+    # Alert
     def showAlert(self, title: str, content: str):
         
+        # Setting alert
         msg = QMessageBox()
         msg.setWindowTitle(title)
         msg.setText(content)
@@ -128,20 +116,23 @@ class SearchWidget(QWidget):
 
     def initUI(self):
 
+        # Insert URL
         self.le = QLineEdit()
         self.le.setPlaceholderText('Enter your website URL')
         self.le.returnPressed.connect(self.crawl_view)
 
-        
+        # Exploit button
         self.btn = QPushButton('Exploit')
         self.btn.clicked.connect(self.crawl_view)
         
         self.lbl = QLabel('')
 
+        # Result screen
         self.tb = QTextBrowser()
         self.tb.setAcceptRichText(True)
         self.tb.setOpenExternalLinks(True)
 
+        # Layout
         grid = QGridLayout()
         grid.addWidget(self.le, 0, 0, 1, 3)
         grid.addWidget(self.btn, 0, 3, 1, 1)
@@ -150,51 +141,39 @@ class SearchWidget(QWidget):
         self.setLayout(grid)
 
 
+    # Run crawling
     def crawl_view(self):
-        # search_url = self.le.text()
-        search_url = "Google"
+        search_url = self.le.text()
         
         if search_url:
             self.tb.clear()
             if(len(exploitCategory) != 0):
                 readCategory(path)
-                # print(query)
+                # print(querys)    # check querys
                 
-                self.lbl.setText('Google Search Results for [' + search_url + '] URL')
+                self.lbl.setText('Google Search Results for [' + search_url + ']')
                 self.tb.append("GHDB Category ····· " + exploitCategory + '\n')
-                for i in range(len(query)):
-                    # p, sync = Jonna_Michine_Tool.exploitGHDB(path, i)
-                    # print('back')
-                    sync = random.randint(0,1)
-                    p = 'test'
-                    time.sleep(1)
-                    if(sync == 1):
-                        self.tb.append("[Exploit] ····· " + p)
-                    elif(sync == 0):
-                        self.tb.append("[Fail] ····· " + p)
 
-                
+                # Exploit
+                for query in querys:
+                    sync = Jonna_Michine_Tool.exploitGHDB(query, search_url)
+
+                    time.sleep(random.randint(1, 2))                # Avoid bot detection
+                    if(sync == "Exploit"):
+                        self.tb.append("[Exploit]\t ····· " + query)
+                    elif(sync == "Fail"):
+                        self.tb.append("[Fail]\t ····· " + query)
+                    
+                    # 화면 변화를 즉시 적용하는 코드
+                    QApplication.processEvents()
 
                 self.tb.append("\n\n[Done]")
             else:
                 self.showAlert("ERROR", "Please select category file.")
-                # self.tb.append("ERROR!!! Please select category file.")
-            
-            # website_url = 'https://www.google.com'
-            # url = website_url + search_url
-            # r = requests.get(url)
-            # html = r.content
-            # soup = BeautifulSoup(html, 'html.parser')
-            # titles_html = soup.select('.search-results > li > article > div > h1 > a')
-
-            # for i in range(len(titles_html)):
-            #     title = titles_html[i].text
-            #     link = titles_html[i].get('href')
-            #     self.tb.append(str(i+1) + '. ' + title + ' (' + '<a href="' + link + '">Link</a>' + ')')
-
-    # 
+                
+    # Setting alert
     def showAlert(self, title: str, content: str):
-        
+        # Setting alert
         msg = QMessageBox()
         msg.setWindowTitle(title)
         msg.setText(content)
@@ -203,10 +182,11 @@ class SearchWidget(QWidget):
         if QMessageBox.Ok:
             msg.exec_()
 
+
+# Run
 if __name__ == '__main__':    
     app = QApplication(sys.argv)
     ex = MyWindow()
 
-    
     sys.exit(app.exec_())
     
