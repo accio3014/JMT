@@ -10,6 +10,7 @@ HEIGHT = 400
 
 path = ""
 exploitCategory = ""
+result_time = ""
 
 querys = []
 
@@ -90,8 +91,7 @@ class MyWindow(QMainWindow):
             self.showAlert("Success", "Successfully loading [" + exploitCategory + "." + fileName[-1] + "] file")
         else:
             self.showAlert("Fail", "Please select *.txt file")
-
-
+                
         
         print(path)     # file path
 
@@ -144,6 +144,7 @@ class SearchWidget(QWidget):
     # Run crawling
     def crawl_view(self):
         search_url = self.le.text()
+        result_time = time.strftime("%Y%m%d%H%M%S")
         
         if search_url:
             self.tb.clear()
@@ -156,7 +157,7 @@ class SearchWidget(QWidget):
 
                 # Exploit
                 for query in querys:
-                    sync = Jonna_Michine_Tool.exploitGHDB(query, search_url)
+                    sync = Jonna_Michine_Tool.exploitGHDB(query, search_url, result_time)
 
                     time.sleep(random.randint(1, 2))                # Avoid bot detection
                     if(sync == "Exploit"):
@@ -189,4 +190,3 @@ if __name__ == '__main__':
     ex = MyWindow()
 
     sys.exit(app.exec_())
-    
