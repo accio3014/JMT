@@ -28,13 +28,20 @@ import random
 # Setting SSL
 ssl._create_default_https_context = ssl._create_unverified_context
 
+# 지금 동작 보면 특정 위치에 result.md 파일이 있어야 그 파일에 결과를 추가하거든?
+# 이걸 내가 특정 경로에 파일 저장 되게 변경해 주세요!
+# -> 절대 경로로 지정되어 있으면 다른 OS에서 경로를 변경해야하므로 비율적임
+# -> 상대 경로로 바꾸기
 
-def exploitGHDB(query, search_url):
+# 그리고 저장 파일이 result.md 말고 report_현재날짜및시간.md
+# -> report_20230517151245
+
+def exploitGHDB(query, search_url, result_time):
     
     # readCategory(categoryPath)
 
     # Save report md file
-    result = open("/Users/seokcheon/OneDrive/College/2023-1/graduation-work/JMT-test/result.md", "a")
+    result = open("./report_" + result_time + ".md", "a") 
 
     # 한글을 대비해서 quote_plus() 함수를 사용
     baseUrl = 'https://www.google.com/search?q='
