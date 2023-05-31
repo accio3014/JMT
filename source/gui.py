@@ -30,6 +30,10 @@ def readCategory(path):
         
     f.close()
 
+def writeTitle(search_url, result_time):
+    result = open("./report_" + result_time + ".md", "a") 
+    result.write('# %s \n</br>\n\n' % search_url)           # Write heading of report file (URL)
+
 # Setting GUI
 class MyWindow(QMainWindow):
 
@@ -145,6 +149,8 @@ class SearchWidget(QWidget):
     def crawl_view(self):
         search_url = self.le.text()
         result_time = time.strftime("%Y%m%d%H%M%S")
+
+        writeTitle(search_url, result_time)
         
         if search_url:
             self.tb.clear()

@@ -28,14 +28,6 @@ import random
 # Setting SSL
 ssl._create_default_https_context = ssl._create_unverified_context
 
-# 지금 동작 보면 특정 위치에 result.md 파일이 있어야 그 파일에 결과를 추가하거든?
-# 이걸 내가 특정 경로에 파일 저장 되게 변경해 주세요!
-# -> 절대 경로로 지정되어 있으면 다른 OS에서 경로를 변경해야하므로 비율적임
-# -> 상대 경로로 바꾸기
-
-# 그리고 저장 파일이 result.md 말고 report_현재날짜및시간.md
-# -> report_20230517151245
-
 def exploitGHDB(query, search_url, result_time):
     
     # readCategory(categoryPath)
@@ -54,7 +46,11 @@ def exploitGHDB(query, search_url, result_time):
     caps['safari.private'] = True
 
     # Start web crawling
+    # browser = random.randint(1,2)
+    # if(browser == 1):
     driver = webdriver.Safari()
+    # else:
+    #     driver = webdriver.Chrome('chromedriver')
     driver.get(url)
 
     # Read Web html file.
@@ -62,7 +58,7 @@ def exploitGHDB(query, search_url, result_time):
     soup = BeautifulSoup(html, 'html.parser')
 
     searchResult = soup.select('.tF2Cxc')           # Result of search
-    result.write('## %s \n</br>' % query)           # Write heading of report file
+    result.write('## %s \n</br>\n' % query)           # Write heading of report file (Query)
 
     time.sleep(random.randint(1, 2))                # Avoid bot detection
 
@@ -72,22 +68,22 @@ def exploitGHDB(query, search_url, result_time):
         try :  
             # .LC20lb.MBeuO.DKV0Md is heading
             print(i.select_one('.LC20lb.MBeuO.DKV0Md').text)            
-            result.write(i.select_one('.LC20lb.MBeuO.DKV0Md').text)
-            result.write('</br>')
+            result.write("\n### %s \n" % i.select_one('.LC20lb.MBeuO.DKV0Md').text)
+            if(len(i.select_one('.LC20lb.MBeuO.DKV0Md').text) == 0):
+                return "Fail"
             
             # i.a.attrs['href'] is sub heading
             print(i.a.attrs['href'])
             result.write(i.a.attrs['href'])
             print()
-            result.write('</br>\n</br>\n')
+            result.write('\n</br>\n')
 
-            return "Exploit"
+            # return "Exploit"
         except :
-            
-            result.write('</br>\n</br>\n')
+            result.write('</br>\n\n')
             return "Fail"
 
-    result.write('</br>\n</br>\n')
+    result.write('</br>\n\n')
     result.close()  # file close
 
-    return "Fail"
+    return "Exploit"
