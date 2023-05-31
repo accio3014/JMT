@@ -1,22 +1,5 @@
 # JMT - Jonna Michine Tool
 
-# 구글 해킹 툴 제작
-# 사용자가 특정 웹 사이트 주소를 입력
-# 해당 주소를 기반으로 구글 검색엔진 해킹 공격 시도
-# 해당 결과를 리턴
-
-# [진행 순서]
-# 1. https://www.exploit-db.com/google-hacking-database 사이트에서 구문 자동으로 가져오기
-# 2. 해킹하고자 하는 웹 사이트 입력
-# 3. 해당 사이트에 대한 검색 엔진 구문을 전부 실행
-# 4. 실행된 결과를 크롤링하여 가지고 옴
-# 5. 깔끔하게 정리
-
-# pip3 install selenium
-# pip3 install beautifulsoup
-# pip3 install bs4
-# pip3.8 install lxml
-
 from urllib.parse import quote_plus
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -46,21 +29,17 @@ def exploitGHDB(query, search_url, result_time):
     caps['safari.private'] = True
 
     # Start web crawling
-    # browser = random.randint(1,2)
-    # if(browser == 1):
     driver = webdriver.Safari()
-    # else:
-    #     driver = webdriver.Chrome('chromedriver')
     driver.get(url)
 
     # Read Web html file.
     html = driver.page_source
     soup = BeautifulSoup(html, 'html.parser')
 
-    searchResult = soup.select('.tF2Cxc')           # Result of search
-    result.write('## %s \n</br>\n' % query)           # Write heading of report file (Query)
+    searchResult = soup.select('.tF2Cxc')       # Result of search
+    result.write('## %s \n</br>\n' % query)     # Write heading of report file (Query)
 
-    time.sleep(random.randint(1, 2))                # Avoid bot detection
+    time.sleep(random.randint(1, 2))            # Avoid bot detection
 
     # print(url)  # Checking
 
