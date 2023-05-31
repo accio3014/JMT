@@ -1,5 +1,4 @@
 # JMT Manual
----
 
 ## Description
 "JMT" stands for "Jonna Michine Tool" and is a tool for  diagnosing vulnerabilities in websites. Most web vulnerability diagnosis tools perform analysis by scanning URLs, but JMT is different from other tools because it uses the Google search engine to check open information on the web.</br>
