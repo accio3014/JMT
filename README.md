@@ -9,6 +9,7 @@ Target :
 - Information Security Manager
 - Web Developer
 ```
+</br>
 
 ## Check list
 | **Check list** |       **Detail**       | **Required** | **Optional** |
@@ -38,6 +39,5 @@ Run JMT:
 ```shell
 $ python3 "download path"/JMT/source/gui.py
 ```
-</br>
 
 ### #2 Download zip
