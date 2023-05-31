@@ -7,7 +7,7 @@ The reason why the vulnerability diagnosis tool was created using the Google sea
 Target : 
 ```
 - Information Security Manager
-- Web Develope
+- Web Developer
 ```
 
 ## Check list
@@ -17,3 +17,23 @@ Target :
 |     Python     | python3.10 or higher   |       O      |       -      |
 |     Chrome     | latest release version |       -      |       O      |
 |     Firefox    | latest release version |       -      |       O      |
+</br>
+
+Python module installation list:
+```python
+$ pip3 install PyQt5
+```
+
+## Useage
+There are two ways to use the tool, and the "git clone" is recommended.
+### git clone
+Download file:
+```shell
+$ git clone https://github.com/accio3014/JMT.git
+```
+
+Run JMT:
+```shell
+$ python3 "download path"/JMT/source/gui.py
+```
+### Download zip
