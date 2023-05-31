@@ -64,5 +64,5 @@ def exploitGHDB(query, search_url, result_time):
 
     result.write('</br>\n\n')
     result.close()  # file close
-
+    
     return "Exploit"
