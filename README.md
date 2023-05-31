@@ -23,10 +23,12 @@ Python module installation list:
 ```python
 $ pip3 install PyQt5
 ```
+</br>
 
 ## Useage
-There are two ways to use the tool, and the "git clone" is recommended.
-### git clone
+There are two ways to use the tool, and the "git clone" is recommended.</br>
+
+### #1 git clone
 Download file:
 ```shell
 $ git clone https://github.com/accio3014/JMT.git
@@ -36,4 +38,6 @@ Run JMT:
 ```shell
 $ python3 "download path"/JMT/source/gui.py
 ```
-### Download zip
+</br>
+
+### #2 Download zip
