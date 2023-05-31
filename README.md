@@ -41,3 +41,5 @@ $ python3 "download path"/JMT/source/gui.py
 ```
 
 ### #2 Download zip
+
+## How to bypass google robot?
