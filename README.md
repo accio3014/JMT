@@ -12,13 +12,15 @@ Target :
 </br>
 
 ## Check list
-| **Check list** |       **Detail**       | **Required** | **Optional** |
-|:--------------:|:----------------------:|:------------:|:------------:|
-|       OS       | MacOS X                |       O      |       -      |
-|     Python     | python3.10 or higher   |       O      |       -      |
-|     Chrome     | latest release version |       -      |       O      |
-|     Firefox    | latest release version |       -      |       O      |
-</br>
+| **Check list**    | **Detail**                                           | **Required** | **Optional** |
+|-------------------|------------------------------------------------------|:------------:|:------------:|
+| OS                | MacOS X                                              |       O      |       -      |
+| Python            | python3.10 or higher                                 |       O      |       -      |
+| Chrome            | latest release version                               |       -      |       O      |
+| Chromedriver      | Install the one that matches your version of Chrome. |       -      |       O      |
+| Chrome extensions | Buster: Captcha Solver for Humans                    |       -      |       O      |
+| Firefox           | latest release version                               |       -      |       O      |
+The checklist for Chrome and Firefox are optional. If you install the option, you can bypass robot detection in Google search a little more.</br>
 
 Python module installation list:
 ```python
