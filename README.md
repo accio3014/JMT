@@ -20,6 +20,8 @@ Target :
 | Chromedriver      | Install the one that matches your version of Chrome. |       -      |       O      |
 | Chrome extensions | Buster: Captcha Solver for Humans                    |       -      |       O      |
 | Firefox           | latest release version                               |       -      |       O      |
+</br>
+
 The checklist for Chrome and Firefox are optional. If you install the option, you can bypass robot detection in Google search a little more.</br>
 
 Python module installation list:
