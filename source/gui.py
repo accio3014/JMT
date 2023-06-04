@@ -153,14 +153,14 @@ class SearchWidget(QWidget):
         global exploitCategory
         search_url = self.le.text()
         result_time = time.strftime("%Y%m%d%H%M%S")
-
-        writeTitle(search_url, result_time, exploitCategory)
         
         if(search_url):
             self.tb.clear()
             if(len(exploitCategory) != 0):
                 readCategory(path)
                 # print(querys)    # check querys
+
+                writeTitle(search_url, result_time, exploitCategory)
                 
                 self.lbl.setText('Google Search Results for [' + search_url + ']')
                 self.tb.append("GHDB Category ····· " + exploitCategory + '\n')

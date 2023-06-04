@@ -11,8 +11,10 @@ Target :
 ```
 </br>
 
+
 ## Diagram
 <img src="https://github.com/accio3014/JMT/assets/92027143/f8a67c3b-f162-4926-880c-e1f8ec52c4c7" width="100%" /></br>
+</br>
 
 
 ## Requirements
@@ -23,19 +25,19 @@ Target :
 | Python         | python3.10 or higher |
 </br>
 
+Allow Safari automation:
+```plaintext
+Safari → Develop → Allow Remote Automation
+```
 Python module installation list:
 ```shell
 $ pip3.x install PyQt5
-$ pip3.x install fake-useragent
-$ pip3.x install 
-$ pip3.x install
+$ pip3.x install bs4
+$ pip3.x install selenium
 ```
 </br>
 
 ## Useage
-There are two ways to use the tool, and the "git clone" is recommended.</br>
-
-### #1 git clone
 Download file:
 ```shell
 $ git clone https://github.com/accio3014/JMT.git
@@ -43,9 +45,14 @@ $ git clone https://github.com/accio3014/JMT.git
 
 Run JMT:
 ```shell
-$ python3 "Download path"/JMT/source/gui.py
+$ python3.x "Download path"/JMT/source/gui.py
 ```
 
-### #2 Download zip
+Insert URL:
+<img src="https://github.com/accio3014/JMT/assets/92027143/0be08b6f-eadb-49b9-a7c3-7f256da9d457" width="40%" /></br>
+</br>
 
-## How to bypass google robot?
+
+Select category in GHDB:
+<img src="https://github.com/accio3014/JMT/assets/92027143/2613cc62-fde1-44be-b271-912e8ba15cc1" width="40%" /></br>
+</br>
