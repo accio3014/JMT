@@ -53,7 +53,6 @@ Insert URL:</br>
 <img src="https://github.com/accio3014/JMT/assets/92027143/0be08b6f-eadb-49b9-a7c3-7f256da9d457" width="40%" /></br>
 </br>
 
-
 Select category in GHDB:</br>
 <img src="https://github.com/accio3014/JMT/assets/92027143/2613cc62-fde1-44be-b271-912e8ba15cc1" width="40%" /></br>
 </br>
