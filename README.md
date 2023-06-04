@@ -12,7 +12,7 @@ Target :
 </br>
 
 ## Diagram
-<img src="https://github.com/accio3014/JMT/assets/92027143/5342f05b-6e0e-48ba-8eff-f5ca66618c04" width="50%" /></br>
+<img src="https://github.com/accio3014/JMT/assets/92027143/f8a67c3b-f162-4926-880c-e1f8ec52c4c7" width="100%" /></br>
 
 
 ## Requirements
