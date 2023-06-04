@@ -56,3 +56,5 @@ Insert URL:</br>
 Select category in GHDB:</br>
 <img src="https://github.com/accio3014/JMT/assets/92027143/2613cc62-fde1-44be-b271-912e8ba15cc1" width="40%" /></br>
 </br>
+
+Waiting for result:</br>
