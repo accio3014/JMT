@@ -11,21 +11,24 @@ Target :
 ```
 </br>
 
-## Check list
-| **Check list**    | **Detail**                                           | **Required** | **Optional** |
-|-------------------|------------------------------------------------------|:------------:|:------------:|
-| OS                | MacOS X                                              |       O      |       -      |
-| Python            | python3.10 or higher                                 |       O      |       -      |
-| Chrome            | latest release version                               |       -      |       O      |
-| Chromedriver      | Install the one that matches your version of Chrome. |       -      |       O      |
-| Chrome extensions | Buster: Captcha Solver for Humans                    |       -      |       O      |
-| Firefox           | latest release version                               |       -      |       O      |
+## Diagram
+<img src="https://github.com/accio3014/JMT/assets/92027143/5342f05b-6e0e-48ba-8eff-f5ca66618c04" width="50%" /></br>
 
-The checklist for Chrome and Firefox are optional. If you install the option, you can bypass robot detection in Google search a little more.</br></br>
+
+## Requirements
+| **Check list** | **Requirements**     |
+|----------------|----------------------|
+| OS             | MacOS X              |
+| Safari         | latest version       |
+| Python         | python3.10 or higher |
+</br>
 
 Python module installation list:
-```python
-$ pip3 install PyQt5
+```shell
+$ pip3.x install PyQt5
+$ pip3.x install fake-useragent
+$ pip3.x install 
+$ pip3.x install
 ```
 </br>
 
@@ -40,7 +43,7 @@ $ git clone https://github.com/accio3014/JMT.git
 
 Run JMT:
 ```shell
-$ python3 "download path"/JMT/source/gui.py
+$ python3 "Download path"/JMT/source/gui.py
 ```
 
 ### #2 Download zip

@@ -30,9 +30,13 @@ def readCategory(path):
         
     f.close()
 
-def writeTitle(search_url, result_time):
+def writeTitle(search_url, result_time, exploitCategory):
     result = open("./report_" + result_time + ".md", "a") 
-    result.write('# %s \n</br>\n\n' % search_url)           # Write heading of report file (URL)
+    result.write('# %s [ %s] \n</br>\n\n' % (search_url, exploitCategory))           # Write heading of report file (URL, Category)
+
+def reCAPTCHAList(result_time, query):
+    result = open("./reCAPTCHAList_" + result_time + ".txt", "a")
+    result.write('%s\n' % query)           # Write reCAPTCHA query list.
 
 # Setting GUI
 class MyWindow(QMainWindow):
@@ -96,7 +100,6 @@ class MyWindow(QMainWindow):
         else:
             self.showAlert("Fail", "Please select *.txt file")
                 
-        
         print(path)     # file path
 
 
@@ -147,12 +150,13 @@ class SearchWidget(QWidget):
 
     # Run crawling
     def crawl_view(self):
+        global exploitCategory
         search_url = self.le.text()
         result_time = time.strftime("%Y%m%d%H%M%S")
 
-        writeTitle(search_url, result_time)
+        writeTitle(search_url, result_time, exploitCategory)
         
-        if search_url:
+        if(search_url):
             self.tb.clear()
             if(len(exploitCategory) != 0):
                 readCategory(path)
@@ -167,16 +171,24 @@ class SearchWidget(QWidget):
 
                     time.sleep(random.randint(1, 2))                # Avoid bot detection
                     if(sync == "Exploit"):
-                        self.tb.append("[Exploit]\t ····· " + query)
+                        self.tb.append("<p style='color:#FFF978'>[Exploit]&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;····· %s</p>" % query)
                     elif(sync == "Fail"):
-                        self.tb.append("[Fail]\t ····· " + query)
+                        self.tb.append("<p style='color:#696969'>[Fail]&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ····· %s</p>" % query)
+                    elif(sync == "reCAPTCHA"):
+                        reCAPTCHAList(result_time, query)
+                        self.tb.append("<p style='color:#5F87E1'>[reCAPTCHA]&nbsp; &nbsp;····· %s</p>" % query)
                     
-                    # 화면 변화를 즉시 적용하는 코드
+                    # Code that immediately applies the contents of the loop statement to the gui.
                     QApplication.processEvents()
 
                 self.tb.append("\n\n[Done]")
             else:
                 self.showAlert("ERROR", "Please select category file.")
+        else:
+            self.showAlert("ERROR", "Please insert URL.")
+            
+            exploitCategory = ""
+
                 
     # Setting alert
     def showAlert(self, title: str, content: str):
@@ -193,6 +205,7 @@ class SearchWidget(QWidget):
 # Run
 if __name__ == '__main__':    
     app = QApplication(sys.argv)
+    app.setStyle('Dark')
     ex = MyWindow()
 
     sys.exit(app.exec_())
