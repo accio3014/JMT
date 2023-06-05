@@ -150,17 +150,18 @@ class SearchWidget(QWidget):
 
     # Run crawling
     def crawl_view(self):
-        global exploitCategory
+        global exploitCategory, querys
+
         search_url = self.le.text()
         result_time = time.strftime("%Y%m%d%H%M%S")
-
-        writeTitle(search_url, result_time, exploitCategory)
         
         if(search_url):
             self.tb.clear()
             if(len(exploitCategory) != 0):
                 readCategory(path)
                 # print(querys)    # check querys
+
+                writeTitle(search_url, result_time, exploitCategory)
                 
                 self.lbl.setText('Google Search Results for [' + search_url + ']')
                 self.tb.append("GHDB Category ····· " + exploitCategory + '\n')
@@ -182,12 +183,16 @@ class SearchWidget(QWidget):
                     QApplication.processEvents()
 
                 self.tb.append("\n\n[Done]")
+                exploitCategory = ""
+                querys = []
             else:
                 self.showAlert("ERROR", "Please select category file.")
+                exploitCategory = ""
+                querys = []
         else:
             self.showAlert("ERROR", "Please insert URL.")
-            
             exploitCategory = ""
+            querys = []
 
                 
     # Setting alert
