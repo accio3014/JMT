@@ -58,3 +58,7 @@ Select category in GHDB:</br>
 </br>
 
 Waiting for result:</br>
+<img src="https://github.com/accio3014/JMT/assets/92027143/35071172-4806-42bf-8555-1c98676a31aa" width="40%" /></br>
+<span style='color:#FFF978'>[Exploit]</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; : There are search results..</br>
+<span style='color:#696969'>[Fail]</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; : No search results.</br>
+<span style='color:#5F87E1'>[reCAPTCHA]</span>&nbsp; &nbsp;  : Google reCAPTCHA detected.</br>
