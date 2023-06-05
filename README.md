@@ -1,3 +1,15 @@
+</br>
+
+- [JMT Manual](#jmt-manual)
+  - [Description](#description)
+  - [Diagram](#diagram)
+  - [Requirements](#requirements)
+  - [Useage](#useage)
+  - [How to bypass reCAPTCHA](#how-to-bypass-recaptcha)
+- [Author](#author)
+  - [accio](#accio)
+  - [test](#test)
+
 # JMT Manual
 
 ## Description
@@ -25,7 +37,7 @@ Target :
 | Python         | python3.10 or higher |
 </br>
 
-Allow Safari automation:
+Allow Safari automation :
 ```plaintext
 Safari → Develop → Allow Remote Automation
 ```
@@ -38,27 +50,44 @@ $ pip3.x install selenium
 </br>
 
 ## Useage
-Download file:
+Download file :
 ```shell
 $ git clone https://github.com/accio3014/JMT.git
 ```
 
-Run JMT:
+Run JMT :
 ```shell
 $ python3.x "Download path"/JMT/source/gui.py
 ```
 </br>
 
-Insert URL:</br>
+Insert URL :</br>
 <img src="https://github.com/accio3014/JMT/assets/92027143/0be08b6f-eadb-49b9-a7c3-7f256da9d457" width="40%" /></br>
 </br>
 
-Select category in GHDB:</br>
+Select category in GHDB :</br>
 <img src="https://github.com/accio3014/JMT/assets/92027143/2613cc62-fde1-44be-b271-912e8ba15cc1" width="40%" /></br>
 </br>
 
-Waiting for result:</br>
+Waiting for result :</br>
 <img src="https://github.com/accio3014/JMT/assets/92027143/35071172-4806-42bf-8555-1c98676a31aa" width="40%" /></br>
 <span style='color:#FFF978'>[Exploit]</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; : There are search results..</br>
 <span style='color:#696969'>[Fail]</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; : No search results.</br>
 <span style='color:#5F87E1'>[reCAPTCHA]</span>&nbsp; &nbsp;  : Google reCAPTCHA detected.</br>
+</br>
+
+## How to bypass reCAPTCHA
+Most reCAPTCHA are bypassed because they use the Safari web browser, but you can bypass them more effectively by additionally using the methods below :</br>
+```plaintext
+1. Use a VPN
+reCAPTCHA can be bypassed by using a VPN to change your country or region.
+
+1. Restart your MAC
+reCAPTCHA can be bypassed by restarting the Mac.
+```
+It doesn't matter which of the above two methods you use, but we recommend restarting your Mac.</br>
+</br>
+
+# Author
+## <a href="https://github.com/accio3014" target="_blank">accio</a>
+## <a href="https://github.com/eey4611" target="_blank">test</a>
