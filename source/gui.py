@@ -182,11 +182,12 @@ class SearchWidget(QWidget):
                     QApplication.processEvents()
 
                 self.tb.append("\n\n[Done]")
+                exploitCategory = ""
             else:
                 self.showAlert("ERROR", "Please select category file.")
+                exploitCategory = ""
         else:
             self.showAlert("ERROR", "Please insert URL.")
-            
             exploitCategory = ""
 
                 
