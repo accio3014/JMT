@@ -150,7 +150,7 @@ class SearchWidget(QWidget):
 
     # Run crawling
     def crawl_view(self):
-        global exploitCategory, query
+        global exploitCategory, querys
 
         search_url = self.le.text()
         result_time = time.strftime("%Y%m%d%H%M%S")
