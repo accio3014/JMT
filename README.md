@@ -6,9 +6,14 @@
   - [Requirements](#requirements)
   - [Useage](#useage)
   - [How to bypass reCAPTCHA](#how-to-bypass-recaptcha)
+- [Reference](#reference)
 - [Author](#author)
   - [accio](#accio)
   - [socelia](#socelia)
+
+<style>
+    img { display:block; margin:auto;}
+</style>
 
 # JMT Manual
 
@@ -86,6 +91,10 @@ reCAPTCHA can be bypassed by using a VPN to change your country or region.
 reCAPTCHA can be bypassed by restarting the Mac.
 ```
 It doesn't matter which of the above two methods you use, but we recommend restarting your Mac.</br>
+</br>
+
+# Reference
+- <a href="https://www.exploit-db.com/google-hacking-database" target="_blank">GHDB</a> </br>
 </br>
 
 # Author
